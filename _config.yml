@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Tank Lab @ UIdaho
+title: The Hamilton Lab
 locale: en_US
-description: Molecular Plant Systematics & Evolution
-logo: tanklab-site-logo.png
+description: part of the Arthropod Molecular Systematics Lab at the University of Idaho
+logo: chris-hamilton_onblack.png
 search: true
 #url: http://localhost:4000
-url: http://davetank.github.io
+url: http://thehamiltonlab.github.io
 
 
 # Jekyll configuration
@@ -33,13 +33,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Dave Tank
-  avatar: bio-photo-Tank.jpg
-  email: dtank@uidaho.edu
+  name: Chris Hamilton
+  avatar: chris_hamilton_avatar.jpg
+  email: hamiltonlab@uidaho.edu
   disqus-shortname:
-  twitter: dave_tank
-  facebook: dave.tank.77
-  github: davetank
+  twitter: 8legs2fangs
+  facebook: #username
+  github: thehamiltonlab
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
@@ -48,8 +48,8 @@ owner:
   pinterest: #username
   weibo: #userid
   google:
-    plus: DaveTank1
-    analytics: UA-72122602-1
+    plus: #DaveTank1
+    analytics: #UA-72122602-1
     verify:
     ad-client:
     ad-slot:
