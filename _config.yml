@@ -5,7 +5,6 @@ locale: en_US
 description: part of the Arthropod Molecular Systematics Lab at the University of Idaho
 logo: chris-hamilton_onblack.png
 search: true
-#url: http://localhost:4000
 url: http://thehamiltonlab.github.io
 
 
@@ -20,10 +19,8 @@ sass:
 gems:
   - jekyll-sitemap
 plugins:
-  - jekyll-remote-theme
 
 theme: jekyll-theme-so-simple
-remote_theme: mmistakes/so-simple-theme
 
 kramdown:
   auto_ids: true
