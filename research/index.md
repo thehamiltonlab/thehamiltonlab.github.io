@@ -1,78 +1,87 @@
 ---
 layout: page
-title: Current Research
-excerpt: "Current research in the Tank Lab."
-modified: 2015-06-10T19:44:38
+title: Our Research
+excerpt: "Research topics of interest in the Hamilton Lab"
+modified: 
 image:
-  feature: Castilleja-litoralis.jpg
-  credit: D. Tank
+  feature: Aphonopelma_sample.jpg
 ---
-### Molecular Systematics
+**"Nothing in evolution makes sense except when seen in the light of phylogeny."**
 
-*This research addresses a range of questions including species delimitation, modes of speciation, the ecological and evolutionary consequences of polyploidy, climatic niche evolution, pollination biology, conservation, classification, and alpha taxonomy.*
+*- Jay Savage, evolutionary biologist*
+
+### **Overview**
+Understanding how Earth's diversity has been shaped by evolution is one of the key objectives in biological research, and a compelling mechanism for engaging and educating the public. My research is driven by three major questions: 1) What are the relationships within the arthropod Tree of Life?; 2) How has evolution produced such an astonishing array of form and function?; and 3) Why are particular lineages more diverse than others?.
+
+**Topics of interest to our lab group:**
+1. Spider and Bombycoidea moth systematics
+	- Build better understanding of Araneae & Lepidoptera branches on the Tree of Life
+	- Train the next generation of taxonomists
+2. The bat/moth evolutionary “arms race”
+3. Comparative genomics of phenotypic change
+	- Body size
+	- Eye loss
+	- Wing shape
+4. Body size evolution
+5. Convergent evolution
+6. Use of genomics as a tool in STEM outreach
+
+### **Current and Future Projects**
+### Systematics
+
+*Our research addresses a wide range of questions by investigating the evolutionary history of the Araneae (from alpha and beta taxonomy to macroevolutionary dynamics to species delimitation), with a focus predominantly on the Mygalomorphae, and in particular the Theraphosidae (tarantulas). We also work on Lepidoptera, predominantly the superfamily Bombycoidea, and in particular the Saturniidae (silkmoths).*
 
 <figure>
-	<a href="{{ site.url }}/images/Castillejinae2.jpg"><img src="{{ site.url }}/images/Castillejinae2.jpg" alt="image" width="175" height="219"></a>
+	<a href="{{ site.url }}/images/mygalomorph_phylo.jpg"><img src="{{ site.url }}/images/mygalomorph_phylo.jpg" alt="image" width="175" height="219"></a>
+</figure>
+{: .pull-right}
+<figure>
+	<a href="{{ site.url }}/images/Fig1_moth_tree.jpg"><img src="{{ site.url }}/images/Fig1_moth_tree.jpg" alt="image" width="175" height="219"></a>
 </figure>
 {: .pull-right}
 
-**Diversification dynamics in Castillejinae -** correlating life history variation and chromosomal evolution to shifts in the rate of diversification in this species-rich group of primarily western North American plants.
+**Evolution and systematics of <i>Aphonopelma<i> -** <i>Aphonopelma<i> is a group where traditional morphological characters were generally ineffective at evaluating inter- and intraspecific variation, with the genus declared “one of the greatest known challenges to species delimitation in spiders”. The principal goal of this research was and is to formally resolve the species-level diversity by using an integrative approach that combined phylogenomics with morphological, geographic, and behavioral data to define species boundaries.
 
-**Evolution and systematics of the paintbrushes -** investigating the recent and rapid diversification of the ~180 perennial <i>Castilleja</i> species in western North America, Mexico, Central America, and Andean South America. The dissertation research of [*Sarah Jacobs*]({{ site.url }}/people/) and research of former postdoc [*Maribeth Latvis*]({{ site.url }}/people/)are focused on this group.
+**The Theraphosidae Tree of Life -** Future research will expand this systematic work throughout the family Theraphosidae (tarantulas), resolving relationships and attempting to explain how this family became one of the most diverse of all spiders.
 
-**Biogeography and systematics of <i>Cordylanthus</i> and <i>Pseudocordylanthus</i> -** 
-investigating the evolutionary history of  various genera in the Pedicularidae clade of Orobanchaceae, including <i>Cordylanthus</i>, <i>Chloropyron</i>, and <i>Lamourouxia</i>. This represents the work of several students, including former MS student[*Ian Gilman*]({{ site.url }}/people/), and current MS student [*Sebastian Mortimer*]({{ site.url }}/people/).
+**The evolution of eye-loss in a genus of troglophilic tarantulas, <i>Hemirrhagus<i>-** One important aspect of this work will be my growing collaboration with researchers in Mexico – an incredibly diverse region with a large number of species that have been overlooked, under-sampled, and undescribed. A major focus of this collaborative endeavor will be to better understand the evolution of the blind, troglophilic tarantula species of Mexico – the only place where this is known to occur. 
+
+### Body Size Evolution
+
+*Body size is one of the most important determinants of an organism’s ecological role (Hanken and Wake 1993). Because it is correlated with physiological and fitness characters, body size has been one of the most important traits evolutionary biologists have investigated. My research explores three major stories of dramatic changes in body size:  1) Miniaturization in sympatric lineages of Aphonopelma tarantulas; 2) Sexual size dimorphism in the golden orb-weaving spiders (Nephilidae); and 3) The evolution of large body sizes as an anti-bat trait in the evolutionary “arms race” between bats and moths. Future work will utilize phylogenetics, morphometrics, and comparative genomics (de novo genome sequencing and transcriptomics) to investigate the evolutionary path of these traits, as well as the putative mechanisms and the genome regions that have provided for these changes.*
 
 <figure>
-	<a href="{{ site.url }}/images/Bartsia.jpg"><img src="{{ site.url }}/images/Bartsia.jpg" alt="image" width="120" height="120"></a>
+	<a href="{{ site.url }}/images/anax_paloma_size.jpg"><img src="{{ site.url }}/images/anax_paloma_size.jpg" alt="image" width="125" height="99"></a>
+</figure>
+{: .pull-right}
+<figure>
+	<a href="{{ site.url }}/images/Sys_Bio_cover.jpg"><img src="{{ site.url }}/images/Sys_Bio_cover.jpg" alt="image" width="125" height="99"></a>
 </figure>
 {: .pull-right}
 
-**Evolution and systematics of <i>Bartsia</i> s.l. -** investigating the biogeography, evolution, and diversification of <i>Neobartsia</i> in Andean South America, and placing this group in the context of the rest of the ‘European clade’ of Orobanchaceae. This was the dissertation research of former PhD student [*Simon Uribe-Convers*]({{ site.url }}/people/former-lab-members.html). 
+### The Bat-Moth Evolutionary Arms Race
 
-**Evolution and systematics of <i>Lachemilla</i> (Rosaceae) -** dissertation research of  former PhD student [*Diego Morales-Briones*]({{ site.url }}/people/). This project is focused on the intergeneric relationships of <i>Lachemilla</i> and its relatives in the subtribe Alchemillinae of Rosaceae, and the role of hybridization in the putative adaptive radiation of <i>Lachemilla</i> in the mountains of Mexico, Central America, and Andean South America.
+*With an estimated 140,000 described species, an enormous array of wing shapes and body sizes exist across Lepidoptera. However, until recently few studies investigated the drivers of this spectacular morphological diversity. A major hypothesis I am working to answer is whether differences in moth wing shape and body size are associated with their primary nocturnal predators – bats, and if these trait differences relate to clade diversity. With their suite of anti-predator strategies (i.e., ears keen to a bat's ultrasonic echolocation, acrobatic evasive flight, and specialized morphology to aid in defensive flight and escape mechanisms – e.g., hindwing tails and ultrasound-producing organs that "jam" bat biosonar), moths in the superfamily Bombycoidea are an ideal system to test evolutionary hypotheses concerning the historical path of anti-bat traits.
+Future genomic research will continue gathering the data needed to: 1) test whether there are correlated changes between anti-bat strategies and increasing/decreasing rates of speciation or extinction; and 2) decipher the functional genomics of wing shape and body size. Future behavioral work will continue growing our bat/moth behavioral interaction datasets needed to test for and quantify the selective advantage of putative anti-bat traits.*
 
 <figure>
-	<a href="{{ site.url }}/images/campanulid-biogeography.jpg"><img src="{{ site.url }}/images/campanulid-biogeography.jpg" alt="image" width="150" height="197"></a>
+	<a href="{{ site.url }}/images/Science_Advances.jpg"><img src="{{ site.url }}/images/Science_Advances.jpg" alt="image" width="150" height="134"></a>
 </figure>
 {: .pull-right}
 
-**Angiosperm phylogeny & evolution -** In addition to species-level molecular systematic studies, we collaborate with other research groups on resolving some of the remaining outstanding questions in angiosperm phylogeny and to use these phylogenies to investigate evolutionary questions. My systematic expertise is mostly centered on the large, diverse asterid clade, and these collaborations include family-level systematics in Orobanchaceae and Verbenaceae, as well as the major lineages of the Lamiales and Campanulidae. 
+### Machine Learning
 
-### Megaphylogenies & Macroevolution
-
-*With the rapid accumulation of DNA sequence data and advances in computational efficiency, bigger, faster computers, and improved algorithms and programs, we are now in a position to build truly large phylogenetic trees. These trees provide a fresh perspective on comparative analyses at a much larger scale and are invaluable for assessing and directing future phylogenetic research.*
+*Current rates of species loss exceed the historical extinction rate by several orders of magnitude. This loss has been shown to destabilize Earth’s ecosystems and diminish the benefits they provide to humanity. After ~300 years of taxonomy, ~1.5 million species have been described (of the 8-9 million estimated non-microbial species). Furthermore, 57% of the 150 most commonly prescribed drugs in the U.S. contain active ingredients derived from natural compounds extracted from this biodiversity. If radical changes are not implemented, we will continue to lose species before knowing anything about their role in ecosystems or potential for human health.
+One major challenge for biodiversity discovery is the time and effort required to determine and describe new species. This has led to an incredible "taxonomic backlog". Our research team (the Hamilton Lab and collaborators) is developing machine learning tools to more easily and cheaply accelerate biodiversity discovery.*
 
 <figure>
-	<a href="{{ site.url }}/images/Orobanchaceae2.jpg"><img src="{{ site.url }}/images/Orobanchaceae2.jpg" alt="image" width="150" height="134"></a>
+	<a href="{{ site.url }}/images/skynet1.jpg"><img src="{{ site.url }}/images/skynet1.jpg" alt="image" width="150" height="134"></a>
 </figure>
 {: .pull-right}
 
-**Directing phylogenetic research -** I am fascinated by the question of how much do we know about the phylogenetic history of the major branches of the tree of life, and how can we best synthesize existing knowledge to provide a basis for identifying gaps in our understanding of phylogenetic relationships? As more and more sequence data accumulates in databases and methods for the reconstruction of large phylogenetic trees advance, we are at a point where we can begin to carry out comprehensive analyses that span multiple studies and provide a way to address these fundamental questions. 
+### Outreach
 
-<figure>
-	<a href="{{ site.url }}/images/Angiosperm-medusa2.jpg"><img src="{{ site.url }}/images/Angiosperm-medusa2.jpg" alt="image" width="175" height="115"></a>
-</figure>
-{: .pull-right}
+*As a member of the Chickasaw Nation of Oklahoma, I have a personal investment to engage and mentor fellow Native American students. The inclusion of underrepresented groups in biology, is essential to enhancing scientific literacy in the United States. I recently created a program involving middle school and high school students from the Chickasaw Nation of Oklahoma to engage them into modern biological research. This program uses the exciting bat-moth evolutionary arms race to get students into nature, collect specimens, and teaches them how to participate in DNA extraction and high-throughput sequencing with an Oxford Nanopore MinION, while also learning coding. Students take the assembled sequences, identify the CO1 barcode, and use BOLD to identify the species they have collected. I am now working to adapt this approach for STEM education in Idaho, in particular our native tribes.*
 
-**Diversification dynamics in angiosperms -** investigating the diversification dynamics of this large and diverse clade in an attempt to answer the long standing question of why is the angiosperm lineage so diverse and why are some clades so much more diverse than others? To this end, we are using trees ranging from 640 taxa to more than 32,000 species, in combination with functional trait data compiled as part of the [*Tempo and Mode of Plant Trait Evolution*](http://www.nescent.org/science/awards_summary.php?id=269) working group at NESCent, to address this question with macroevolutionary analyses at unprecedented scales.
-
-### Community Phylogenetics & Phylogeography
-
-*By coupling evolutionary and ecological processes using phylogenies we aim to improve our understanding of community dynamics and our ability to predict directional changes in species composition and distributions caused by altered environmental and biotic scenarios.*
-
-<figure>
-	<a href="{{ site.url }}/images/PNW-disjunct.jpg"><img src="{{ site.url }}/images/PNW-disjunct.jpg" alt="image" width="125" height="99"></a>
-</figure>
-{: .pull-right}
-
-**Comparative phylogeography of the inland temperate rainforest communities of the Pacific Northwest -** in collaboration with [*Jack Sullivan*](http://www.webpages.uidaho.edu/~jacks/) and [*Bryan Carstens*](http://carstenslab.org.ohio-state.edu/), this project is focused on the development of a predictive framework for the discovery of cryptic biodiversity that can be applied to entire ecosystems and uses the disjunct rainforests of the Pacific Northwest as a model system for extending comparative phylogeography. The dissertation research of [*Megan Ruffley*]({{ site.url }}/people/) and postdoctoral research of [*Anahi Espindola*]({{ site.url }}/people/) are focused on this project. 
-
-<figure>
-	<a href="{{ site.url }}/images/San-Juan-phylogeny2.jpg"><img src="{{ site.url }}/images/San-Juan-phylogeny2.jpg" alt="image" width="175" height="174"></a>
-</figure>
-{: .pull-right}
-
-**Community phylogenetics across scales and systems -** this encompasses several projects that comprise the dissertation research of PhD student [*Hannah Marx*]({{ site.url }}/people/). Through collaborations with ecologists working in diverse 'island' systems ranging from alpine sky islands ([*Sébastien Lavergne*](http://seb.lavergne.free.fr)) to the flora of the San Juan Islands in the Puget Sound ([*University of Washington Herbarium*](http://biology.burke.washington.edu/herbarium/resources/sanjuanatlas.php)), this research investigates diversity dynamics in plant communities and integrates detailed information phylogenetic relatedness with measures of functional and genomic diversity. In addition, the variety of systems allows us to test the affect of scale on commonly used community phylogenetic metrics.
 
 [^1]: Example: *domain.com/category-name/post-title*

@@ -5,7 +5,7 @@ excerpt:
 search_omit: true
 
 ---
-## Recent publications from the Tank Lab
+## Recent publications from the Hamilton Lab
 
 <ul class="post-list">
 {% for post in site.posts %} 

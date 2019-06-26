@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: Tank Lab
-  url: /tank-lab/
+- title: The Hamilton Lab
+  url: /hamilton-lab/
 
 - title: People
   url: /people/
@@ -10,16 +10,13 @@
   url: /research/
 
 - title: Publications
-  url: https://scholar.google.com/citations?hl=en&user=47RNZ3MAAAAJ&sortby=pubdate
+  url: https://scholar.google.com/citations?user=CKTkwMoAAAAJ&hl=en
 
-- title: Teaching
-  url: /teaching/
+- title: Outreach
+  url: /outreach/
 
 - title: Prospective Students
   url: /prospective-students/
   
 - title: Contact
   url: /contact/
-
-- title: Search
-  url: /search/

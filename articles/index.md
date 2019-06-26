@@ -1,12 +1,12 @@
 ---
 layout: page
 title: News
-excerpt: "Archive of noteworthy events in the Tank Lab."
+excerpt: "Archive of noteworthy events in the Hamilton Lab."
 
 search_omit: true
 
 ---
-###Current events in the Tank Lab
+###Current events in the Hamilton Lab
 
 <ul class="post-list">
 {% for post in site.posts limit:10 %} 
