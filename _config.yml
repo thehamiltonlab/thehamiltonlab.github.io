@@ -19,6 +19,10 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: "mmistakes/so-simple-theme"
 
 kramdown:
   auto_ids: true
