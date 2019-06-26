@@ -13,7 +13,7 @@ url: http://thehamiltonlab.github.io
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -23,7 +23,7 @@ plugins:
   - jekyll-remote-theme
 
 theme: jekyll-theme-so-simple
-remote_theme: "mmistakes/so-simple-theme"
+remote_theme: mmistakes/so-simple-theme
 
 kramdown:
   auto_ids: true
