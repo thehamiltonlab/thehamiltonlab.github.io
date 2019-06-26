@@ -69,6 +69,16 @@ Future genomic research will continue gathering the data needed to: 1) test whet
 </figure>
 {: .pull-right}
 
+### Convergent Evolution
+
+*Convergence is a striking example of the power of natural selection. But is convergence a common occurrence? Evidence is mounting that it is, yet the rules that determine the patterns of convergence we see are not well understood. It is important for us to ask why convergence occurs in some cases and not others. If we rerun the “tape of life”, will the results be the same?
+To do this, my research combines phylogenetics, functional genomics, geometric morphometrics, and behavioral experiments to investigate the mechanisms behind these patterns. For example, future work will look to understand whether convergence is correlated with niche and/or predatory variables (e.g., community composition, distributions, interactions), and/or genomic changes (i.e., gene expression and regulation patterns) - Can we predict where hindwing tails will evolve, or putatively have evolved, in the Saturniidae moths?*
+
+<figure>
+	<a href="{{ site.url }}/images/phylomorphospace3d.gif"><img src="{{ site.url }}/images/phylomorphospace3d.gif" alt="image" width="150" height="134"></a>
+</figure>
+{: .pull-right}
+
 ### Machine Learning
 
 *Current rates of species loss exceed the historical extinction rate by several orders of magnitude. This loss has been shown to destabilize Earth’s ecosystems and diminish the benefits they provide to humanity. After ~300 years of taxonomy, ~1.5 million species have been described (of the 8-9 million estimated non-microbial species). Furthermore, 57% of the 150 most commonly prescribed drugs in the U.S. contain active ingredients derived from natural compounds extracted from this biodiversity. If radical changes are not implemented, we will continue to lose species before knowing anything about their role in ecosystems or potential for human health.
