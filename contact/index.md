@@ -18,10 +18,8 @@ image:
 #### Phone
 <ul style="list-style-type:none">
   <li>Office (Ag Sci 229)</li>
-  	<ul style="list-style-type:none"> 
-  	<li>208-885-1166</li>
- 	</ul>
-  <li>Lab (Ag Sci 126)</li>
+  <li>208-885-1166</li>
+  <li>Lab - Ag Sci 126</li>
 </ul>
 
 #### Email

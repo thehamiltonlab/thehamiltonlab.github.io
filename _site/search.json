@@ -11,43 +11,41 @@
   
 
   
-
-  
     ,{
       "title"			: "Current Lab Members",
-      "link"			: "http://thehamiltonlab.github.io/people/",
+      "link"			: "http://localhost:4000/people/",
       "excerpt"		: "Current Hamilton Lab members"
     }
   
 
   
     ,{
-      "title"			: "Our Research",
-      "link"			: "http://thehamiltonlab.github.io/research/",
-      "excerpt"		: "Research topics"
-    }
-  
-
-  
-    ,{
-      "title"			: "The Hamilton Lab",
-      "link"			: "http://thehamiltonlab.github.io/hamilton-lab/",
-      "excerpt"		: "part of the Arthropod Molecular Systematics Lab at the University of Idaho"
-    }
-  
-
-  
-    ,{
       "title"			: "Theme Setup",
-      "link"			: "http://thehamiltonlab.github.io/theme-setup/",
+      "link"			: "http://localhost:4000/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
 
   
     ,{
+      "title"			: "The Hamilton Lab",
+      "link"			: "http://localhost:4000/hamilton-lab/",
+      "excerpt"		: "part of the Arthropod Molecular Systematics Lab at the University of Idaho"
+    }
+  
+
+  
+    ,{
+      "title"			: "Our Research",
+      "link"			: "http://localhost:4000/research/",
+      "excerpt"		: "Research topics"
+    }
+  
+
+  
+    ,{
       "title"			: "Contact",
-      "link"			: "http://thehamiltonlab.github.io/contact/",
+      "link"			: "http://localhost:4000/contact/",
       "excerpt"		: "Contact"
     }
   
@@ -55,7 +53,7 @@
   
     ,{
       "title"			: "Prospective Students",
-      "link"			: "http://thehamiltonlab.github.io/prospective-students/",
+      "link"			: "http://localhost:4000/prospective-students/",
       "excerpt"		: "Information on how to join the Hamilton Lab"
     }
   
