@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current Lab Members
+title: Lab Members
 excerpt: "Current Hamilton Lab members"
 modified: 
 image:
