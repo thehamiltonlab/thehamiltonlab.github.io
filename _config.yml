@@ -18,7 +18,7 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme"
 
 kramdown:
   auto_ids: true
