@@ -4,7 +4,7 @@ title: Contact
 excerpt: "Contact"
 modified: 
 image:
-  feature: Aphonopelma_sample.jpg
+  feature: Linyphiidae_sp_male.jpg
 ---
 #### Mailing Address
 

@@ -4,7 +4,7 @@ title: The Hamilton Lab
 excerpt: "part of the Arthropod Molecular Systematics Lab at the University of Idaho"
 modified: 
 image:
-  feature: Aphonopelma_sample.jpg
+  feature: spider_sample.jpg
 ---
 # Arthropod Systematics & Phylogenetics
 
@@ -14,7 +14,7 @@ I consider myself an evolutionary biologist, but I'm also an arachnologist, lepi
 
 As part of the new Arthropod Molecular Systematics lab at the University of Idaho, our research takes a modern systematics approach to establish hypotheses about the generation and maintenance of biodiversity. By integrating large amounts of phylogenomic, morphometric, ecological, and behavioral data, we try to explain patterns across differing landscapes and time, as well as how biotic and abiotic factors have influenced spider and moth diversification.
 
-Check out the [**research page**] to learn more about how we use phylogenies to address evolutionary questions in spiders and moths.
+Check out the [**research**] page to learn more about how we use phylogenies to address evolutionary questions in spiders and moths.
 
 
 
