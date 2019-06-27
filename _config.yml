@@ -6,9 +6,22 @@ description: part of the Arthropod Molecular Systematics Lab at the University o
 logo: chris-hamilton_onblack.png
 search: true
 url: http://thehamiltonlab.github.io
-
+baseurl: "/hamilton-lab"
+logo: "/images/chris-hamilton_onwhite.png"
+date_format: "%B %-d, %Y"
+read_time: # reading time estimates, e.g. true
+words_per_minute: # 200
+mathjax: # MathJax equations, e.g. true
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
 
 # Jekyll configuration
+
+theme: jekyll-theme-so-simple
+# remote_theme: mmistakes/so-simple-theme
 
 permalink:   /:categories/:title/
 markdown:    kramdown
@@ -18,7 +31,6 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
-remote_theme: "mmistakes/so-simple-theme"
 
 kramdown:
   auto_ids: true
@@ -30,13 +42,61 @@ kramdown:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
+# Liquid
+liquid:
+  error_mode: strict
+
+# Build settings
+permalink: /:categories/:title/
+markdown: kramdown
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+# paginate: 10
+# paginate_path: /page:num/
+
+# Search
+search_full_content: false # can have performance implications for large sites
+
+# Taxonomy pages
+# category_archive_path: "/categories/#"
+# tag_archive_path: "/tags/#"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+# Front Matter Defaults
+defaults:
+  # Posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true
 
 # Site owner
 owner:
   name: Chris Hamilton
   avatar: chris_hamilton_avatar.jpg
   email: hamiltonlab@uidaho.edu
-  disqus-shortname:
+  disqus-shortname: #
   twitter: 8legs2fangs
   facebook: #username
   github: thehamiltonlab
@@ -54,3 +114,9 @@ owner:
     ad-client: #
     ad-slot: #
   bing-verify: #
+
+# Footer Links
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
