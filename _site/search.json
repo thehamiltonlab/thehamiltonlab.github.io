@@ -1,205 +1,5 @@
 [
 
-  
-    {
-      "title"			: "2016 Advanced Field Botany course now accepting applications.",
-      "link"			: "http://localhost:4000/articles/AFB-2016/",
-      "excerpt"		: "The 2016 AFB course will be held from July 3rd-16th at the UIdaho McCall Field Campus"
-    }
-  
-
-  
-    ,{
-      "title"			: "Latest paper from Simon Uribe-Convers published in PLoS ONE.",
-      "link"			: "http://localhost:4000/articles/PLoSONE-paper/",
-      "excerpt"		: "Our microfluidic PCR based approach for phylogenomics, with an example from <i>Bartsia</i>"
-    }
-  
-
-  
-    ,{
-      "title"			: "New paper by Hannah Marx published in Diversity and Distributions",
-      "link"			: "http://localhost:4000/articles/DivDist-paper/",
-      "excerpt"		: "Paper investigating Darwin's Naturalization Conundrum in the San Juan Islands published"
-    }
-  
-
-  
-    ,{
-      "title"			: "Dispersification paper published.",
-      "link"			: "http://localhost:4000/articles/AJB-paper/",
-      "excerpt"		: "Simon's paper on the evolution and biogeography of <i>Neobartsia</i> published in AJB."
-    }
-  
-
-  
-    ,{
-      "title"			: "Tank Lab at Botany, 2015",
-      "link"			: "http://localhost:4000/articles/Botany2015/",
-      "excerpt"		: "The Tank Lab traveled to Edmonton for the 2015 Botany meetings"
-    }
-  
-
-  
-    ,{
-      "title"			: "Polyploidy and diversification rates paper published in New Phytologist",
-      "link"			: "http://localhost:4000/articles/NewPhytologist-paper/",
-      "excerpt"		: "Our paper investigating the whole genome duplication radiation lag-time model published in New Phytologist"
-    }
-  
-
-  
-    ,{
-      "title"			: "BMC Evolution paper published",
-      "link"			: "http://localhost:4000/articles/BMC_Evol-paper/",
-      "excerpt"		: "Paper investigating <i>Hypericum</i> biogeography and diversification published this week"
-    }
-  
-
-  
-    ,{
-      "title"			: "Successful NSF DDIG proposals! Congratulations, Sarah and Diego!",
-      "link"			: "http://localhost:4000/articles/NSF-DDIGs/",
-      "excerpt"		: "Sarah Jacobs and Diego Morales-Briones awarded NSF Doctoral Dissertation Improvement Grants"
-    }
-  
-
-  
-    ,{
-      "title"			: "Comparative phylogeography of the PNW rainforests proposal funded!",
-      "link"			: "http://localhost:4000/articles/NSF-Cryptic-Diversity/",
-      "excerpt"		: "NSF award for investigating phylogeographic history and discovering cryptic diversity"
-    }
-  
-
-  
-    ,{
-      "title"			: "Congratulations, Sarah!",
-      "link"			: "http://localhost:4000/articles/Sarah-ASPT/",
-      "excerpt"		: "Congratulations to Sarah Jacobs for her successful ASPT student grant proposal!"
-    }
-  
-
-  
-    ,{
-      "title"			: "Congratulations, Diego!",
-      "link"			: "http://localhost:4000/articles/diego-IAPT/",
-      "excerpt"		: "Congratulations to Diego Morales-Briones for his successful IAPT grant proposal!"
-    }
-  
-
-  
-    ,{
-      "title"			: "Functional distinctiveness in plants",
-      "link"			: "http://localhost:4000/articles/functional-distinctiveness/",
-      "excerpt"		: "The 2nd paper from the NESCent tempo & mode working group"
-    }
-  
-
-  
-    ,{
-      "title"			: "MinuteEarth on trees & freezing",
-      "link"			: "http://localhost:4000/articles/minute-earth/",
-      "excerpt"		: "MinuteEarth video on how plants survive winter"
-    }
-  
-
-  
-    ,{
-      "title"			: "APPS paper published",
-      "link"			: "http://localhost:4000/articles/apps-paper/",
-      "excerpt"		: "Simon's paper on generating plastome sequences in angiosperms"
-    }
-  
-
-  
-    ,{
-      "title"			: "Welcome, Maribeth!",
-      "link"			: "http://localhost:4000/articles/welcome-maribeth/",
-      "excerpt"		: "Dr. Maribeth Latvis joins the lab"
-    }
-  
-
-  
-    ,{
-      "title"			: "Plant tree on OneZoom!",
-      "link"			: "http://localhost:4000/articles/onezoom-plants/",
-      "excerpt"		: "Explore the Seed Plant Tree of Life"
-    }
-  
-
-  
-    ,{
-      "title"			: "Nature paper!",
-      "link"			: "http://localhost:4000/articles/nature/",
-      "excerpt"		: "Our paper on the evolution of cold tolerance in angiosperms."
-    }
-  
-
-  
-    ,{
-      "title"			: "Student Grants!",
-      "link"			: "http://localhost:4000/articles/student-grants/",
-      "excerpt"		: "Congratulations Hannah and Diego for recent research awards!"
-    }
-  
-
-  
-    ,{
-      "title"			: "Campanulid biogeography paper published.",
-      "link"			: "http://localhost:4000/articles/campanulid-biogeography/",
-      "excerpt"		: "Paper on campanulid biogeography published in BMC Evolutionary Biology this week."
-    }
-  
-
-  
-    ,{
-      "title"			: "Congruification paper published.",
-      "link"			: "http://localhost:4000/articles/congruification/",
-      "excerpt"		: "Our approach for time scaling megaphylogenies published in MEE"
-    }
-  
-
-  
-    ,{
-      "title"			: "NSF CAREER proposal funded!",
-      "link"			: "http://localhost:4000/articles/NSF-career/",
-      "excerpt"		: "NSF award for integrated research and teaching on systematics of <i>Castilleja</i>!"
-    }
-  
-
-  
-    ,{
-      "title"			: "Plants are Cool, Too!",
-      "link"			: "http://localhost:4000/articles/plants-are-cool-too/",
-      "excerpt"		: "Episode 2, Fossilized Forests"
-    }
-  
-
-  
-    ,{
-      "title"			: "Teacher of the Year!",
-      "link"			: "http://localhost:4000/articles/teaching-award/",
-      "excerpt"		: "I am honored to be the 2012 College of Natural Resources Teacher of the Year!"
-    }
-  
-
-  
-    ,{
-      "title"			: "NSF DDIG!",
-      "link"			: "http://localhost:4000/articles/Simon-DDIG/",
-      "excerpt"		: "Simon awarded NSF DDIG for <i>Bartsia</i> systematics"
-    }
-  
-
-  
-    ,{
-      "title"			: "The new PNW herbarium portal",
-      "link"			: "http://localhost:4000/articles/pnwherbaria/",
-      "excerpt"		: "Updated and expanded Consortium of Pacific Northwest Herbaria data portal"
-    }
-  
-
 
 
   
@@ -211,7 +11,7 @@
   
     ,{
       "title"			: "Prospective Students",
-      "link"			: "http://localhost:4000/prospective-students/",
+      "link"			: "http://thehamiltonlab.github.io/prospective-students/",
       "excerpt"		: "Information on how to join the Hamilton Lab"
     }
   
@@ -225,7 +25,7 @@
   
     ,{
       "title"			: "Our Research",
-      "link"			: "http://localhost:4000/research/",
+      "link"			: "http://thehamiltonlab.github.io/research/",
       "excerpt"		: "Research topics of interest in the Hamilton Lab"
     }
   
@@ -233,7 +33,7 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "http://localhost:4000/theme-setup/",
+      "link"			: "http://thehamiltonlab.github.io/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
@@ -241,7 +41,7 @@
   
     ,{
       "title"			: "The Hamilton Lab",
-      "link"			: "http://localhost:4000/hamilton-lab/",
+      "link"			: "http://thehamiltonlab.github.io/hamilton-lab/",
       "excerpt"		: "part of the Arthropod Molecular Systematics Lab at the University of Idaho"
     }
   
@@ -249,7 +49,7 @@
   
     ,{
       "title"			: "Current Lab Members",
-      "link"			: "http://localhost:4000/people/",
+      "link"			: "http://thehamiltonlab.github.io/people/",
       "excerpt"		: "Current Hamilton Lab members"
     }
   
@@ -257,7 +57,7 @@
   
     ,{
       "title"			: "Addresses, Phone, Email",
-      "link"			: "http://localhost:4000/contact/",
+      "link"			: "http://thehamiltonlab.github.io/contact/",
       "excerpt"		: "Addresses & phone numbers."
     }
   

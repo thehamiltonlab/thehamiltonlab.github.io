@@ -16,7 +16,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
 theme: jekyll-theme-so-simple
 
