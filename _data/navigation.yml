@@ -1,19 +1,19 @@
 # Site navigation links
 
 - title: The Hamilton Lab
-  url: /hamilton-lab/
-
-- title: People
-  url: /people/
+  url: /home/
 
 - title: Research
   url: /research/
+  
+- title: People
+  url: /people/
 
 - title: Publications
   url: https://scholar.google.com/citations?user=CKTkwMoAAAAJ&hl=en
 
 - title: Prospective Students
   url: /prospective-students/
-  
+
 - title: Contact
   url: /contact/
