@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Our Research
-excerpt: "Research topics"
+title: Research
+excerpt: "Our Research"
 modified: 
 image:
   feature: wet_web.jpg
