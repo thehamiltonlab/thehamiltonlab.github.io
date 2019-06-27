@@ -1,1 +1,1 @@
-Sitemap: http://thehamiltonlab.github.io/sitemap.xml
+Sitemap: https://thehamiltonlab.github.io/hamilton-lab/sitemap.xml
