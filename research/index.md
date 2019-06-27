@@ -4,7 +4,7 @@ title: Our Research
 excerpt: "Research topics"
 modified: 
 image:
-  feature: Aphonopelma_sample.jpg
+  feature: wet_web.jpg
 ---
 **"Nothing in evolution makes sense except when seen in the light of phylogeny."**
 

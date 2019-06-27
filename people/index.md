@@ -4,7 +4,7 @@ title: Lab Members
 excerpt: "Current Hamilton Lab members"
 modified: 
 image:
-  feature: moths.jpg
+  feature: hello.jpg
 ---
 ### Chris A. Hamilton
 ![Chris A. Hamilton]({{ site.url }}/images/chris_hamilton_avatar.jpg)
@@ -19,8 +19,9 @@ hamiltonlab [at] uidaho.edu; @8legs2fangs
 *MS & PhD students*
 
 <figure>
-	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="175" height="219"></a>
+	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="175"</a>
 </figure>
+{: .pull-right}
 **You?** - You are you. You just need to have a love for biodiversity and want to study its evolution.
 
 

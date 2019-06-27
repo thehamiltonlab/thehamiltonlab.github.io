@@ -4,7 +4,7 @@ title: Prospective Students
 excerpt: "Information on how to join the Hamilton Lab"
 modified: 
 image:
-  feature: moths.jpg
+  feature: sphingid.jpg
 ---
 My lab, and the Arthropod Molecular Systematics Lab ([coPI Marek Borowiec](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology/our-people/marek-borowiec)), are a family. We want to build a diverse and interactive lab group interested in phylogenies and their applications in understanding the evolution of spider and moth biodiversity.
 
