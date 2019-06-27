@@ -6,7 +6,7 @@ modified:
 image:
   feature: Aphonopelma_sample.jpg
 ---
-# Arthropod Systematics - Phylogenetics - Evolution of biodiversity
+# Arthropod Systematics & Phylogenetics
 
 The Hamilton Lab is in the [*Department of Entomology, Plant Pathology & Nematology*](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology) at the [*University of Idaho*](http://www.uidaho.edu), and is affiliated with the [*Institute for Bioinformatics and Evolutionary Studies (IBEST)*](http://www.ibest.uidaho.edu).
 
@@ -15,6 +15,8 @@ I consider myself an evolutionary biologist, but I'm also an arachnologist, lepi
 As part of the new Arthropod Molecular Systematics lab at the University of Idaho, our research takes a modern systematics approach to establish hypotheses about the generation and maintenance of biodiversity. By integrating large amounts of phylogenomic, morphometric, ecological, and behavioral data, we try to explain patterns across differing landscapes and time, as well as how biotic and abiotic factors have influenced spider and moth diversification.
 
 Check out the [**research page**]({{ site.url }}/research.html) to learn more about how we use phylogenies to address evolutionary questions in spiders and moths.
+
+
 
 **"There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been and are being, evolved."**
 
