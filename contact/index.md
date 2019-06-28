@@ -27,11 +27,9 @@ image:
 	<li>hamiltonlab [at] uidaho.edu</li>
 
 <figure>
-	<a href="{{ site.url }}/images/UIdaho2.png"><img src="{{ site.url }}/images/UIdaho2.png" alt="image" width="250" ></a>
+	<a href="{{ site.url }}/images/UIdaho2.png"><img src="{{ site.url }}/images/UIdaho2.png" alt="image" width="150" ></a>
 </figure>
 
 <figure>
-	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" width="175" ></a>
+	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" width="250" ></a>
 </figure>
-
-[^1]: Example: *domain.com/category-name/post-title*
