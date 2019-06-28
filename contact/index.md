@@ -4,7 +4,7 @@ title: Contact
 excerpt: "Contact"
 modified: 
 image:
-  feature: Misumenoides_formosipes.jpg
+  feature: Linyphiidae_sp_male.jpg
 ---
 #### Mailing Address
 
@@ -27,11 +27,11 @@ image:
 	<li>hamiltonlab [at] uidaho.edu</li>
 
 <figure>
-	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" width="175" height=""></a>
+	<a href="{{ site.url }}/images/UIdaho2.png"><img src="{{ site.url }}/images/UIdaho2.png" alt="image" width="250" ></a>
 </figure>
-{: .pull-left}
 
 <figure>
-	<a href="{{ site.url }}/images/UIdaho2.png"><img src="{{ site.url }}/images/UIdaho2.png" alt="image" width="175" height=""></a>
+	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" width="175" ></a>
 </figure>
-{: .pull-right}
+
+[^1]: Example: *domain.com/category-name/post-title*
