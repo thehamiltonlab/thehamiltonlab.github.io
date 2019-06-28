@@ -1,1 +1,1 @@
-Sitemap: https://thehamiltonlab.github.io/hamilton-lab/sitemap.xml
+Sitemap: http://localhost:4000/hamilton-lab/sitemap.xml

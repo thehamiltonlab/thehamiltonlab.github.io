@@ -53,12 +53,12 @@ Our research addresses a wide range of questions by investigating the evolutiona
 Body size is one of the most important determinants of an organism’s ecological role (Hanken and Wake 1993). Because it is correlated with physiological and fitness characters, body size has been one of the most important traits evolutionary biologists have investigated. My research explores three major stories of dramatic changes in body size:  1) Miniaturization in sympatric lineages of Aphonopelma tarantulas; 2) Sexual size dimorphism in the golden orb-weaving spiders (Nephilidae); and 3) The evolution of large body sizes as an anti-bat trait in the evolutionary “arms race” between bats and moths. Future work will utilize phylogenetics, morphometrics, and comparative genomics (de novo genome sequencing and transcriptomics) to investigate the evolutionary path of these traits, as well as the putative mechanisms and the genome regions that have provided for these changes.
 
 <figure>
-	<a href="{{ site.url }}/images/anax_paloma_size.jpg"><img src="{{ site.url }}/images/anax_paloma_size.jpg" alt="image" width="150"> height=""</a>
+	<a href="{{ site.url }}/images/anax_paloma_size.jpg"><img src="{{ site.url }}/images/anax_paloma_size.jpg" alt="image" width="150" height=""</a>
 </figure>
 {: .pull-right}
 
 <figure>
-	<a href="{{ site.url }}/images/Sys_Bio_cover.jpg"><img src="{{ site.url }}/images/Sys_Bio_cover.png" alt="image" width="150"> height=""</a>
+	<a href="{{ site.url }}/images/Sys_Bio_cover.jpg"><img src="{{ site.url }}/images/Sys_Bio_cover.png" alt="image" width="150" height=""</a>
 </figure>
 {: .pull-right}
 
