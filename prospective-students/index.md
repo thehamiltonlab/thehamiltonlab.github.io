@@ -6,7 +6,8 @@ modified:
 image:
   feature: sphingid.jpg
 ---
-My lab, and the Arthropod Molecular Systematics Lab ([coPI Marek Borowiec](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology/our-people/marek-borowiec)), are a family. We want to build a diverse and interactive lab group interested in phylogenies and their applications in understanding the evolution of spider and moth biodiversity.
+
+**My lab, and the Arthropod Molecular Systematics Lab ([coPI Marek Borowiec](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology/our-people/marek-borowiec)), are a family. We want to build a diverse and interactive lab group interested in phylogenies and their applications in understanding the evolution of spider and moth biodiversity.**
 
 *My lab is a safe space for people of all races, genders, sexual orientations, and abilities.*
 
