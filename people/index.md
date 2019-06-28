@@ -7,7 +7,7 @@ image:
   feature: hello.jpg
 ---
 
-"Nothing in biology makes sense except in the light of evolution."
+**"Nothing in biology makes sense except in the light of evolution."**
 
 *- Theodosius Dobzhansky, evolutionary biologist*
 
@@ -21,6 +21,7 @@ View my [faculty profile](https://www.uidaho.edu/cals/entomology-plant-pathology
 
 hamiltonlab [at] uidaho.edu; @8legs2fangs
 
+
 ### Graduate Students
 *MS & PhD students*
 
@@ -31,5 +32,5 @@ hamiltonlab [at] uidaho.edu; @8legs2fangs
 </figure>
 {: .center}
 
-**You?** - You are you. You just need to have a love for biodiversity and want to study its evolution.
+**You?** - You just need to have a love for biodiversity and a desire to understand its evolution.
 
