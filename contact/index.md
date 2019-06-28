@@ -25,3 +25,13 @@ image:
 #### Email
 <ul style="list-style-type:none">
 	<li>hamiltonlab [at] uidaho.edu</li>
+
+<figure>
+	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" width="175" height=""></a>
+</figure>
+{: .pull-left}
+
+<figure>
+	<a href="{{ site.url }}/images/UIdaho2.png"><img src="{{ site.url }}/images/UIdaho2.png" alt="image" width="175" height=""></a>
+</figure>
+{: .pull-right}
