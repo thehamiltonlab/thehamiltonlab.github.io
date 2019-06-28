@@ -31,5 +31,5 @@ hamiltonlab [at] uidaho.edu; @8legs2fangs
 	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="200"> </a>
 
 </figure>
-{: .center}
+{: .pull-left}
 

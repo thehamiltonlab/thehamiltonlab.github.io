@@ -12,8 +12,12 @@ image:
 *- Jay Savage, evolutionary biologist*
 
 
-### **Overview**
-Understanding how Earth's diversity has been shaped by evolution is one of the key objectives in biological research, and a compelling mechanism for engaging and educating the public. My research is driven by three major questions: 1) What are the relationships within the arthropod Tree of Life?; 2) How has evolution produced such an astonishing array of form and function?; and 3) Why are particular lineages more diverse than others?.
+### Overview
+Understanding how Earth's diversity has been shaped by evolution is one of the key objectives in biological research, and a compelling mechanism for engaging and educating the public. My research is driven by three major questions:
+1) What are the relationships within the arthropod Tree of Life?
+2) How has evolution produced such an astonishing array of form and function?
+3) Why are particular lineages more diverse than others?
+
 
 **Topics of interest to our lab group:**
 1. Spider and Bombycoidea moth systematics
@@ -24,18 +28,16 @@ Understanding how Earth's diversity has been shaped by evolution is one of the k
 	- Body size
 	- Eye loss
 	- Wing shape
-4. Body size evolution
-5. Convergent evolution
-6. Use of genomics as a tool in STEM outreach
+4. Convergent evolution
+5. Use of genomics as a tool in STEM outreach
 
-### **Current and Future Projects**
+
 ### Systematics
-
 Our research addresses a wide range of questions by investigating the evolutionary history of the Araneae (from alpha and beta taxonomy to macroevolutionary dynamics to species delimitation), with a focus predominantly on the Mygalomorphae, and in particular the Theraphosidae (tarantulas). We also work on Lepidoptera, predominantly the superfamily Bombycoidea, and in particular the Saturniidae (silkmoths).
 
 <figure>
 
-	<a href="{{ site.url }}/images/mygalomorph_phylo.jpg"><img src="{{ site.url }}/images/mygalomorph_phylo.jpg" alt="image" width="150" height="220.2"> </a>
+	<a href="{{ site.url }}/images/mygalomorph_phylo.jpg"><img src="{{ site.url }}/images/mygalomorph_phylo.jpg" alt="image" width="200" height="293.6"> </a>
 
 </figure>
 {: .pull-right}
@@ -46,7 +48,7 @@ Our research addresses a wide range of questions by investigating the evolutiona
 
 <figure>
 
-	<a href="{{ site.url }}/images/Fig1_moth_tree.jpg"><img src="{{ site.url }}/images/Fig1_moth_tree.jpg" alt="image" width="150" height="146.7"> </a>
+	<a href="{{ site.url }}/images/Fig1_moth_tree.jpg"><img src="{{ site.url }}/images/Fig1_moth_tree.jpg" alt="image" width="200" height="195.6"> </a>
 
 </figure>
 {: .pull-right}
@@ -58,7 +60,7 @@ Our research addresses a wide range of questions by investigating the evolutiona
 
 <figure>
 
-	<a href="{{ site.url }}/images/anax_paloma_size.jpg"><img src="{{ site.url }}/images/anax_paloma_size.jpg" alt="image" width="150" height=""> </a>
+	<a href="{{ site.url }}/images/anax_paloma_size.jpg"><img src="{{ site.url }}/images/anax_paloma_size.jpg" alt="image" width="300" height="231.8"> </a>
 
 </figure>
 {: .pull-right}
@@ -68,15 +70,15 @@ Body size is one of the most important determinants of an organism’s ecologica
 
 ### The Bat-Moth Evolutionary Arms Race
 
-With an estimated 140,000 described species, an enormous array of wing shapes and body sizes exist across Lepidoptera. However, until recently few studies investigated the drivers of this spectacular morphological diversity. A major hypothesis I am working to answer is whether differences in moth wing shape and body size are associated with their primary nocturnal predators – bats, and if these trait differences relate to clade diversity. With their suite of anti-predator strategies (i.e., ears keen to a bat's ultrasonic echolocation, acrobatic evasive flight, and specialized morphology to aid in defensive flight and escape mechanisms – e.g., hindwing tails and ultrasound-producing organs that "jam" bat biosonar), moths in the superfamily Bombycoidea are an ideal system to test evolutionary hypotheses concerning the historical path of anti-bat traits.
-Future genomic research will continue gathering the data needed to: 1) test whether there are correlated changes between anti-bat strategies and increasing/decreasing rates of speciation or extinction; and 2) decipher the functional genomics of wing shape and body size. Future behavioral work will continue growing our bat/moth behavioral interaction datasets needed to test for and quantify the selective advantage of putative anti-bat traits.
-
 <figure>
 
-	<a href="{{ site.url }}/images/Science_Advances.jpg"><img src="{{ site.url }}/images/Science_Advances.jpg" alt="image" width="" height="200"> </a>
+	<a href="{{ site.url }}/images/Science_Advances.jpg"><img src="{{ site.url }}/images/Science_Advances.jpg" alt="image" width="239" height="300"> </a>
 
 </figure>
 {: .pull-right}
+
+With an estimated 140,000 described species, an enormous array of wing shapes and body sizes exist across Lepidoptera. However, until recently few studies investigated the drivers of this spectacular morphological diversity. A major hypothesis I am working to answer is whether differences in moth wing shape and body size are associated with their primary nocturnal predators – bats, and if these trait differences relate to clade diversity. With their suite of anti-predator strategies (i.e., ears keen to a bat's ultrasonic echolocation, acrobatic evasive flight, and specialized morphology to aid in defensive flight and escape mechanisms – e.g., hindwing tails and ultrasound-producing organs that "jam" bat biosonar), moths in the superfamily Bombycoidea are an ideal system to test evolutionary hypotheses concerning the historical path of anti-bat traits.
+Future genomic research will continue gathering the data needed to: 1) test whether there are correlated changes between anti-bat strategies and increasing/decreasing rates of speciation or extinction; and 2) decipher the functional genomics of wing shape and body size. Future behavioral work will continue growing our bat/moth behavioral interaction datasets needed to test for and quantify the selective advantage of putative anti-bat traits.
 
 
 ### Convergent Evolution
