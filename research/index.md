@@ -41,12 +41,12 @@ Our research addresses a wide range of questions by investigating the evolutiona
 <figure>
 	<a href="{{ site.url }}/images/mygalomorph_phylo.jpg"><img src="{{ site.url }}/images/mygalomorph_phylo.jpg" alt="image" width="150" height="220.2"</a>
 </figure>
-{: .pull-right}
+{: .align-right}
 
 <figure>
 	<a href="{{ site.url }}/images/Fig1_moth_tree.jpg"><img src="{{ site.url }}/images/Fig1_moth_tree.jpg" alt="image" width="150" height="146.7"</a>
 </figure>
-{: .pull-right}
+{: .align-right}
 
 ### Body Size Evolution
 
@@ -55,12 +55,12 @@ Body size is one of the most important determinants of an organism’s ecologica
 <figure>
 	<a href="{{ site.url }}/images/anax_paloma_size.jpg"><img src="{{ site.url }}/images/anax_paloma_size.jpg" alt="image" width="150" height=""</a>
 </figure>
-{: .pull-right}
+{: .align-left}
 
 <figure>
 	<a href="{{ site.url }}/images/Sys_Bio_cover.jpg"><img src="{{ site.url }}/images/Sys_Bio_cover.png" alt="image" width="150" height=""</a>
 </figure>
-{: .pull-right}
+{: .align-left}
 
 ### The Bat-Moth Evolutionary Arms Race
 
@@ -104,6 +104,6 @@ As a member of the Chickasaw Nation of Oklahoma, I have a personal investment to
 <figure>
 	<a href="{{ site.url }}/images/young_Chris.jpg"><img src="{{ site.url }}/images/young_Chris.jpg" alt="image" width="150" height=""</a>
 </figure>
-{: .center}
+{: align.center}
 
 [^1]: Example: *domain.com/category-name/post-title*
