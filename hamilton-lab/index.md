@@ -17,10 +17,11 @@ As part of the new Arthropod Molecular Systematics lab at the University of Idah
 Check out the **research** page to learn more about how we use phylogenies to address evolutionary questions in spiders and moths.
 
 <figure>
-	<a href="{{ site.url }}/images/Tarantula_Nocona_boot_ad.jpg"><img src="{{ site.url }}/images/Tarantula_Nocona_boot_ad.jpg" alt="image" width="150"</a>
+
+	<a href="{{ site.url }}/images/Tarantula_Nocona_boot_ad.jpg"><img src="{{ site.url }}/images/Tarantula_Nocona_boot_ad.jpg" alt="image" width="150"></a>
+
 </figure>
 {: .center}
-
 
 **"There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been and are being, evolved."**
 
