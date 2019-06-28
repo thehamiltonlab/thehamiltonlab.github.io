@@ -6,7 +6,7 @@ description: part of the Arthropod Molecular Systematics Lab at the University o
 logo: chris-hamilton_onblack.png
 search: true
 url: "https://thehamiltonlab.github.io"
-baseurl: "/hamilton-lab"
+#baseurl: "/hamilton-lab"
 
 # Jekyll configuration
 
