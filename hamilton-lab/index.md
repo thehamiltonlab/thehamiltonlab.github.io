@@ -6,6 +6,11 @@ modified:
 image:
   feature: taxa_sample.jpg
 ---
+"There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been and are being, evolved."
+
+*- Charles Darwin, 1859, "On the Origin of Species by means of Natural Selection"*
+
+
 # Arthropod Systematics & Phylogenetics
 
 The Hamilton Lab is in the [*Department of Entomology, Plant Pathology & Nematology*](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology) at the [*University of Idaho*](http://www.uidaho.edu), and is affiliated with the [*Institute for Bioinformatics and Evolutionary Studies (IBEST)*](http://www.ibest.uidaho.edu).
@@ -23,6 +28,3 @@ Check out the **research** page to learn more about how we use phylogenies to ad
 </figure>
 {: .center}
 
-**"There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been and are being, evolved."**
-
-*- Charles Darwin, 1859, "On the Origin of Species by means of Natural Selection"*
