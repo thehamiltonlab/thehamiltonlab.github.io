@@ -4,7 +4,7 @@ title: Contact
 excerpt: "Contact"
 modified: 
 image:
-  feature: Linyphiidae_sp_male.jpg
+  feature: Misumenoides_formosipes.jpg
 ---
 #### Mailing Address
 
@@ -19,7 +19,7 @@ image:
 <ul style="list-style-type:none">
   <li>Office (Ag Sci 229)</li>
   <li>208-885-1166</li>
-  <li>Lab - Ag Sci 126</li>
+  <li>Lab (Ag Sci 120 & 124)</li>
 </ul>
 
 #### Email
