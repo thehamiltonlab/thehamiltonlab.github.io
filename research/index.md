@@ -38,10 +38,8 @@ Our research addresses a wide range of questions by investigating the evolutiona
 
 *The evolution of eye-loss in a genus of troglophilic tarantulas, <i>Hemirrhagus<i> -* One important aspect of this work will be my growing collaboration with researchers in Mexico – an incredibly diverse region with a large number of species that have been overlooked, under-sampled, and undescribed. A major focus of this collaborative endeavor will be to better understand the evolution of the blind, troglophilic tarantula species of Mexico – the only place where this is known to occur. 
 
-<figure>
-	<a href="/thehamiltonlab.github.io/images/mygalomorph_phylo.jpg"><img src="/thehamiltonlab.github.io/images/mygalomorph_phylo.jpg" alt="image" width="150" height="100"</a>
-</figure>
-{: .pull-right}
+<img align="right" src="/images/mygalomorph_phylo.jpg" width="150" /a> ![](images/mygalomorph_phylo.jpg)
+
 
 <figure>
 	<a href="{{ site.url }}/images/Fig1_moth_tree.jpg"><img src="{{ site.url }}/images/Fig1_moth_tree.jpg" alt="image" width="150" height=""</a>
