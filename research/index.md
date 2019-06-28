@@ -39,12 +39,14 @@ Our research addresses a wide range of questions by investigating the evolutiona
 *The evolution of eye-loss in a genus of troglophilic tarantulas, <i>Hemirrhagus<i> -* One important aspect of this work will be my growing collaboration with researchers in Mexico – an incredibly diverse region with a large number of species that have been overlooked, under-sampled, and undescribed. A major focus of this collaborative endeavor will be to better understand the evolution of the blind, troglophilic tarantula species of Mexico – the only place where this is known to occur. 
 
 <figure>
-	<a href="{{ site.baseurl }}/images/mygalomorph_phylo.jpg"><img src="/images/mygalomorph_phylo.jpg" alt="" class="align-right" width="150"</a>
+	<a href="{{ site.url }}/images/mygalomorph_phylo.jpg"><img src="{{ site.url }}/images/mygalomorph_phylo.jpg" alt="image" width="150" height="220.2"</a>
 </figure>
+{: .pull-right}
 
 <figure>
-	<a href="{{ site.baseurl }}/images/Fig1_moth_tree.jpg"><img src="/images/Fig1_moth_tree.jpg" alt="" class="align-right" width="150"</a>
+	<a href="{{ site.url }}/images/Fig1_moth_tree.jpg"><img src="{{ site.url }}/images/Fig1_moth_tree.jpg" alt="image" width="150" height="146.7"</a>
 </figure>
+{: .pull-right}
 
 ### Body Size Evolution
 
