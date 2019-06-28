@@ -18,7 +18,7 @@ Check out the **research** page to learn more about how we use phylogenies to ad
 
 <figure>
 
-	<a href="{{ site.url }}/images/Tarantula_Nocona_boot_ad.jpg"><img src="{{ site.url }}/images/Tarantula_Nocona_boot_ad.jpg" alt="image" width="150"></a>
+	<a href="{{ site.url }}/images/Tarantula_Nocona_boot_ad.jpg"><img src="{{ site.url }}/images/Tarantula_Nocona_boot_ad.jpg" alt="image" width="300"> </a>
 
 </figure>
 {: .center}
