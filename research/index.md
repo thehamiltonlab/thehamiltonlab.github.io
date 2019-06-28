@@ -58,7 +58,7 @@ Body size is one of the most important determinants of an organism’s ecologica
 {: .align-left}
 
 <figure>
-	<a href="{{ site.url }}/images/Sys_Bio_cover.jpg"><img src="{{ site.url }}/images/Sys_Bio_cover.png" alt="image" width="150" height=""</a>
+	<a href="{{ site.url }}/images/Sys_Bio_cover.png"><img src="{{ site.url }}/images/Sys_Bio_cover.png" alt="image" width="150" height=""</a>
 </figure>
 {: .align-left}
 
