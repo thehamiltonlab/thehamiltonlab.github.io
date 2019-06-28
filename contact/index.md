@@ -6,6 +6,7 @@ modified:
 image:
   feature: Linyphiidae_sp_male.jpg
 ---
+
 #### Mailing Address
 
 <ul style="list-style-type:none">
@@ -27,9 +28,9 @@ image:
 	<li>hamiltonlab [at] uidaho.edu</li>
 
 <figure>
-	<a href="{{ site.url }}/images/UIdaho2.png"><img src="{{ site.url }}/images/UIdaho2.png" alt="image" width="125" ></a>
+	<a href="{{ site.url }}/images/UIdaho2.png"><img src="{{ site.url }}/images/UIdaho2.png" alt="image" style="float:left" width="125" ></a>
 </figure>
 
 <figure>
-	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" width="300" ></a>
+	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" style="float:right" width="300" ></a>
 </figure>

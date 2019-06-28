@@ -25,12 +25,11 @@ hamiltonlab [at] uidaho.edu; @8legs2fangs
 ### Graduate Students
 *MS & PhD students*
 
+**You?** - You just need to have a love for biodiversity and a desire to understand its evolution.
 <figure>
 
-	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="175"> </a>
+	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="200"> </a>
 
 </figure>
 {: .center}
-
-**You?** - You just need to have a love for biodiversity and a desire to understand its evolution.
 
