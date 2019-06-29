@@ -65,7 +65,7 @@ Body size is one of the most important determinants of an organism’s ecologica
 
 <figure>
 
-	<a href="{{ site.url }}/images/Fig1_moth_tree.jpg"><img src="{{ site.url }}/images/Fig1_moth_tree.jpg" alt="image" width="200" height="195.6"> </a>
+	<a href="{{ site.url }}/images/Fig1_moth_tree.jpg"><img src="{{ site.url }}/images/Fig1_moth_tree.jpg" alt="image" width="300" height="293.4"> </a>
 
 </figure>
 {: .pull-right}
