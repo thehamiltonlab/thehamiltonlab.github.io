@@ -42,11 +42,11 @@ Our research addresses a wide range of questions by investigating the evolutiona
 </figure>
 {: .pull-right}
 
-*Evolution and systematics of <i>Aphonopelma<i> -* <i>Aphonopelma<i> is a group where traditional morphological characters were generally ineffective at evaluating inter- and intraspecific variation, with the genus declared “one of the greatest known challenges to species delimitation in spiders”. The principal goal of this research was and is to formally resolve the species-level diversity by using an integrative approach that combined phylogenomics with morphological, geographic, and behavioral data to define species boundaries.
+*Evolution and systematics of Aphonopelma -* <i>Aphonopelma<i> is a group where traditional morphological characters were generally ineffective at evaluating inter- and intraspecific variation, with the genus declared “one of the greatest known challenges to species delimitation in spiders”. The principal goal of this research was and is to formally resolve the species-level diversity by using an integrative approach that combined phylogenomics with morphological, geographic, and behavioral data to define species boundaries.
 
 *The Theraphosidae Tree of Life -* Future research will expand this systematic work throughout the family Theraphosidae (tarantulas), resolving relationships and attempting to explain how this family became one of the most diverse of all spiders.
 
-*The evolution of eye-loss in a genus of troglophilic tarantulas, <i>Hemirrhagus<i> -* One important aspect of this work will be my growing collaboration with researchers in Mexico – an incredibly diverse region with a large number of species that have been overlooked, under-sampled, and undescribed. A major focus of this collaborative endeavor will be to better understand the evolution of the blind, troglophilic tarantula species of Mexico – the only place where this is known to occur. 
+*The evolution of eye-loss in a genus of troglophilic tarantulas, Hemirrhagus -* One important aspect of this work will be my growing collaboration with researchers in Mexico – an incredibly diverse region with a large number of species that have been overlooked, undersampled, and undescribed. A major focus of this collaborative endeavor will be to better understand the evolution of the blind, troglophilic tarantula species of Mexico (<i>Hemirrhagus<i>) – the only place where this is known to occur. 
 
 
 ### Body Size Evolution
@@ -65,7 +65,7 @@ Body size is one of the most important determinants of an organism’s ecologica
 
 <figure>
 
-	<a href="{{ site.url }}/images/Fig1_moth_tree.jpg"><img src="{{ site.url }}/images/Fig1_moth_tree.jpg" alt="image" width="357.8" height="350"> </a>
+	<a href="{{ site.url }}/images/Fig1_moth_tree.jpg"><img src="{{ site.url }}/images/Fig1_moth_tree.jpg" alt="image" width="332.3" height="325"> </a>
 
 </figure>
 {: .pull-right}
