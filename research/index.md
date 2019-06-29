@@ -65,21 +65,13 @@ Body size is one of the most important determinants of an organism’s ecologica
 
 <figure>
 
-	<a href="{{ site.url }}/images/Science_Advances.jpg"><img src="{{ site.url }}/images/Science_Advances.jpg" alt="image" width="239" height="300"> </a>
+	<a href="{{ site.url }}/images/Fig1_moth_tree.jpg"><img src="{{ site.url }}/images/Fig1_moth_tree.jpg" alt="image" width="200" height="195.6"> </a>
 
 </figure>
 {: .pull-right}
 
 With an estimated 140,000 described species, an enormous array of wing shapes and body sizes exist across Lepidoptera. However, until recently few studies investigated the drivers of this spectacular morphological diversity. A major hypothesis I am working to answer is whether differences in moth wing shape and body size are associated with their primary nocturnal predators – bats, and if these trait differences relate to clade diversity. With their suite of anti-predator strategies (i.e., ears keen to a bat's ultrasonic echolocation, acrobatic evasive flight, and specialized morphology to aid in defensive flight and escape mechanisms – e.g., hindwing tails and ultrasound-producing organs that "jam" bat biosonar), moths in the superfamily Bombycoidea are an ideal system to test evolutionary hypotheses concerning the historical path of anti-bat traits.
 Future genomic research will continue gathering the data needed to: 1) test whether there are correlated changes between anti-bat strategies and increasing/decreasing rates of speciation or extinction; and 2) decipher the functional genomics of wing shape and body size. Future behavioral work will continue growing our bat/moth behavioral interaction datasets needed to test for and quantify the selective advantage of putative anti-bat traits.
-
-
-<figure>
-
-	<a href="{{ site.url }}/images/Fig1_moth_tree.jpg"><img src="{{ site.url }}/images/Fig1_moth_tree.jpg" alt="image" width="200" height="195.6"> </a>
-
-</figure>
-{: .pull-right}
 
 
 ### Convergent Evolution
