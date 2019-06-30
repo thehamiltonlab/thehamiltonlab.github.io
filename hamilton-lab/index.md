@@ -23,7 +23,7 @@ Check out the [**research**]({{ site.url }}/research) page to learn more about h
 
 <figure>
 
-	<a href="{{ site.url }}/images/Tarantula_Nocona_boot_ad.jpg"><img src="{{ site.url }}/images/Tarantula_Nocona_boot_ad.jpg" alt="image" width="300"> </a>
+	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="200"> </a>
 
 </figure>
 {: .center}

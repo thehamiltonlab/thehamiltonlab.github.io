@@ -34,3 +34,12 @@ image:
 
 #### Email
 [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu)
+
+
+<figure>
+
+	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="200"> </a>
+
+</figure>
+{: .center}
+
