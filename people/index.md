@@ -27,11 +27,11 @@ email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu) or Twitter 
 
 ### Graduate Students
 *MS & PhD students*
-
-**You?** - You just need to have a love for biodiversity and a desire to understand its evolution (like this guy).<figure>
+<figure>
 	<a href="{{ site.url }}/images/young_Chris.jpg"><img src="{{ site.url }}/images/young_Chris.jpg" alt="image" width="200" height=""> </a>
 </figure>
 {: .pull-right}
+**You?** - You just need to have a love for biodiversity and a desire to understand its evolution (like this guy).
 
  
 <figure>
