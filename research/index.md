@@ -21,16 +21,10 @@ Understanding how Earth's diversity has been shaped by evolution is one of the k
 
 
 **Topics of interest to our lab group:**
-1. Spider and Bombycoidea moth systematics
-	- Build better understanding of Araneae & Lepidoptera branches on the Tree of Life
-	- Train the next generation of taxonomists
-2. The bat/moth evolutionary “arms race”
+1. Build better understanding of Araneae & Lepidoptera branches on the Tree of Life 
+2. Train the next generation of taxonomists
 3. Comparative genomics of phenotypic change
-	- Body size
-	- Eye loss
-	- Wing shape
-4. Convergent evolution
-5. Use of genomics as a tool in STEM outreach
+4. Use of genomics as a tool in STEM outreach
 
 
 ### Systematics

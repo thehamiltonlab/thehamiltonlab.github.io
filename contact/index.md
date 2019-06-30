@@ -15,6 +15,12 @@ image:
   <li>875 Perimeter Dr. MS 2329</li>
   <li>Moscow, ID 83844-2329</li>
 </ul>
+<figure>
+
+	<a href="{{ site.url }}/images/UIdaho2.png"><img src="{{ site.url }}/images/UIdaho2.png" alt="image" style="float:left" width="125" ></a>
+	
+</figure>
+{: .pull-right}
 
 #### Phone
 <ul style="list-style-type:none">
@@ -22,12 +28,13 @@ image:
   <li>208-885-1166</li>
   <li>Lab (Ag Sci 120 & 124)</li>
 </ul>
+<figure>
+
+	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" style="float:right" width="300" ></a>
+	
+</figure>
+{: .pull-right}
 
 #### Email
 <ul style="list-style-type:none">
-	<li>hamiltonlab [at] uidaho.edu</li>
-
-<figure>
-	<a href="{{ site.url }}/images/UIdaho2.png"><img src="{{ site.url }}/images/UIdaho2.png" alt="image" style="float:left" width="125" ></a>
-	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" style="float:right" width="300" ></a>
-</figure>
+	<li>[hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu)</li>
