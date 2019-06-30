@@ -21,6 +21,8 @@ As part of the new Arthropod Molecular Systematics lab at the University of Idah
 
 Check out the [**research**]({{ site.url }}/research) page to learn more about how we use phylogenies to address evolutionary questions in spiders and moths.
 
+<br>
+<br>
 
 <figure>
 

@@ -42,6 +42,9 @@ Prospective students will be required to successfully enroll as a graduate stude
 
 There are numerous possibilities for small projects in the lab and I encourage inquiries from undergraduates interested in gaining research experience. If you’re interested in research opportunities in the lab and want more information about possibilities, contact me by email [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu?subject=Undergraduate%20research). 
 
+<br>
+<br>
+
 <figure>
 
 	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="100"> </a>

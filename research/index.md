@@ -98,6 +98,8 @@ One major challenge for biodiversity discovery is the time and effort required t
 
 As a member of the Chickasaw Nation of Oklahoma, I have a personal investment to engage and mentor fellow Native American students. The inclusion of underrepresented groups in biology, is essential to enhancing scientific literacy in the United States. I recently created a program involving middle school and high school students from the Chickasaw Nation of Oklahoma to engage them into modern biological research. This program uses the exciting bat-moth evolutionary arms race to get students into nature, collect specimens, and teaches them how to participate in DNA extraction and high-throughput sequencing with an Oxford Nanopore MinION, while also learning coding. Students take the assembled sequences, identify the CO1 barcode, and use BOLD to identify the species they have collected. I am now working to adapt this approach for STEM education in Idaho, in particular our native tribes.
 
+<br>
+<br>
 
 <figure>
 
