@@ -13,7 +13,7 @@ image:
 
 
 ### Chris A. Hamilton
-![Chris A. Hamilton]({{ site.url }}/images/chris_hamilton_avatar.jpg height="100")
+![Chris A. Hamilton]({{ site.url }}/images/chris_hamilton_avatar_sm.jpg)
 {: .pull-right}
 My goal as an advisor is to help students become broadly trained in arthropod systematics and & phylogenetics while they develop as independent researchers by learning to identify interesting questions and the approaches necessary to address those questions.
 
