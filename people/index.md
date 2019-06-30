@@ -33,7 +33,13 @@ email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu) or Twitter 
 {: .pull-right}
 **You?** - You just need to have a love for biodiversity and a desire to understand its evolution (like this guy).
 
- 
+
+
+
+
+
+
+
 <figure>
 
 	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="100"> </a>
