@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prospective Students
-excerpt: "Information on how to join the Hamilton Lab"
+excerpt: "How to join the Hamilton Lab"
 modified: 
 image:
   feature: sphingid.jpg
@@ -20,10 +20,12 @@ Students will obtain research experience in a molecular laboratory, field work u
 
 Student projects can be tied into ongoing research or developed according to mutual interests.
 
-If you are interested in joining the lab, contact me by email [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu?subject=Prospective%20graduate%20student) prior to applying. To learn more about the incredible community of evolutionary biologists at the University of Idaho, check out the [*Department of Entomology, Plant Pathology & Nematology*](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology), the [*Department of Biological Sciences*](http://www.uidaho.edu/sci/biology), the [*Institute for Bioinformatics and Evolutionary Studies (IBEST)*](http://www.uidaho.edu/research/ibest), and the [*Bioinformatics and Computational Biology Program*](http://www.uidaho.edu/cogs/bcb). 
+To learn more about the incredible community of evolutionary biologists at the University of Idaho, check out the [*Department of Entomology, Plant Pathology & Nematology*](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology), the [*Department of Biological Sciences*](http://www.uidaho.edu/sci/biology), the [*Institute for Bioinformatics and Evolutionary Studies (IBEST)*](http://www.uidaho.edu/research/ibest), and the [*Bioinformatics and Computational Biology Program*](http://www.uidaho.edu/cogs/bcb).
 
 
-#### the next step
+#### interested?
+
+If you are interested in joining the lab, contact me by email [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu?subject=Prospective%20graduate%20student) prior to applying.
 
 Formal applications should include:
 
@@ -39,4 +41,11 @@ Prospective students will be required to successfully enroll as a graduate stude
 ### Undergraduate Research
 
 There are numerous possibilities for small projects in the lab and I encourage inquiries from undergraduates interested in gaining research experience. If you’re interested in research opportunities in the lab and want more information about possibilities, contact me by email [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu?subject=Undergraduate%20research). 
+
+<figure>
+
+	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="200"> </a>
+
+</figure>
+{: .center}
 
