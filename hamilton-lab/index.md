@@ -6,10 +6,10 @@ modified:
 image:
   feature: taxa_sample.jpg
 ---
-"There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been and are being, evolved."
+**"There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been and are being, evolved."**
 
 *- Charles Darwin, 1859, "On the Origin of Species by means of Natural Selection"*
-
+<br>
 
 # Arthropod Systematics & Phylogenetics
 
@@ -21,7 +21,6 @@ As part of the new Arthropod Molecular Systematics lab at the University of Idah
 
 Check out the [**research**]({{ site.url }}/research) page to learn more about how we use phylogenies to address evolutionary questions in spiders and moths.
 
-<br>
 <br>
 
 <figure>

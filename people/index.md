@@ -10,7 +10,7 @@ image:
 **"Nothing in biology makes sense except in the light of evolution."**
 
 *- Theodosius Dobzhansky, evolutionary biologist*
-
+<br>
 
 ### Chris A. Hamilton
 <figure>
@@ -33,8 +33,6 @@ email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu) or Twitter 
 {: .pull-right}
 **You?** - You just need to have a love for biodiversity and a desire to understand its evolution (like this guy).
 
-<br>
-<br>
 <br>
 <br>
 <br>

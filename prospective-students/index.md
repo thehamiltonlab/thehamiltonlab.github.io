@@ -10,7 +10,7 @@ image:
 **My lab, and the Arthropod Molecular Systematics Lab ([coPI Marek Borowiec](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology/our-people/marek-borowiec)), are a family. We want to build a diverse and interactive lab group interested in phylogenies and their applications in understanding the evolution of spider and moth biodiversity.**
 
 *We are a safe space for people of all races, genders, sexual orientations, and abilities.*
-
+<br>
 
 ### Graduate Research (MS, PhD)
 
@@ -42,7 +42,6 @@ Prospective students will be required to successfully enroll as a graduate stude
 
 There are numerous possibilities for small projects in the lab and I encourage inquiries from undergraduates interested in gaining research experience. If you’re interested in research opportunities in the lab and want more information about possibilities, contact me by email [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu?subject=Undergraduate%20research). 
 
-<br>
 <br>
 
 <figure>

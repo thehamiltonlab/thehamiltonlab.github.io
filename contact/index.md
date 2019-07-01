@@ -36,7 +36,6 @@ image:
 [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu)
 
 <br>
-<br>
 
 <figure>
 
