@@ -22,7 +22,7 @@ image:
 
 #### Phone
 <figure>
-	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" style="float:right" width="300" ></a>
+	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" style="float:right" width="250" ></a>
 </figure>
 {: .pull-right}
 <ul style="list-style-type:none">
