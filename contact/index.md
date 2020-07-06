@@ -28,8 +28,11 @@ image:
 <ul style="list-style-type:none">
   <li>Office (Ag Sci 229)</li>
   <li>208-885-1166</li>
-  <li>Lab (Ag Sci 120 & 124)</li>
+  <li>Arthropod Molecular Systematics Lab (Ag Sci 120 & 124)</li>
 </ul>
+<figure>
+	<a href="{{ site.url }}/images/Arthropod Molecular Systematics Lab-On white.png"><img src="{{ site.url }}/images/Arthropod Molecular Systematics Lab-On white.png" alt="image" style="float:right" width="100" ></a>
+</figure>
 
 
 #### Email
