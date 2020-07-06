@@ -102,7 +102,7 @@ As a member of the Chickasaw Nation of Oklahoma, I have a personal investment to
 
 <figure>
 
-	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="100"> </a>
+	<a href="{{ site.url }}/images/Arthropod Molecular Systematics Lab-On white.png"><img src="{{ site.url }}/images/Arthropod Molecular Systematics Lab-On white.png" alt="image" width="100"> </a>
 
 </figure>
 {: .center}

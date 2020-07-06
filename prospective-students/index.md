@@ -14,7 +14,7 @@ image:
 
 ### Graduate Research (MS, PhD)
 
-I am looking for highly motivated, independent students with a keen interest in evolutionary biology, phylogenetics, and entomology; in particular, those wanting wanting to do collections-based research, phylogenetics, taxonomy, and/or evolutionary biology.
+I am looking for passionate, independent students with an interest in evolutionary biology, phylogenetics, and entomology; in particular, those wanting wanting to do collections-based research, phylogenetics, taxonomy, and/or evolutionary biology.
 
 Students will obtain research experience in a molecular laboratory, field work under variable conditions, knowledge in taxonomic identification, and experience with UNIX command line, R, and Python programming.
 
@@ -46,7 +46,7 @@ There are numerous possibilities for small projects in the lab and I encourage i
 
 <figure>
 
-	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="100"> </a>
+	<a href="{{ site.url }}/images/Arthropod Molecular Systematics Lab-On white.png"><img src="{{ site.url }}/images/Arthropod Molecular Systematics Lab-On white.png" alt="image" width="100"> </a>
 
 </figure>
 {: .center}
