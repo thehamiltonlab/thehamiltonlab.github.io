@@ -26,12 +26,19 @@ email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu) or Twitter 
 
 
 ### Graduate Students
-*MS & PhD students*
+*PhD students*
+
+**Karina Silvestre Bringas** - Karina is working on understanding the diversity and evolutionary history of the tarantula genus *Aphonopelma** across the Madrean Pine-Oak Woodlands Hotspot (aka - the sky islands of southern Arizona, New Mexico, and northern Mexico).
 <figure>
-	<a href="{{ site.url }}/images/young_Chris.jpg"><img src="{{ site.url }}/images/young_Chris.jpg" alt="image" width="200" height=""> </a>
+	<a href="{{ site.url }}/images/Karina.jpg"><img src="{{ site.url }}/images/Karina.jpg" alt="image" width="200" height=""> </a>
 </figure>
 {: .pull-right}
-**You?** - You just need to have a love for biodiversity and a desire to understand its evolution (like this guy).
+
+**Erik Ciaccio** - Erik is working on understanding the species diversity and evolutionary patterns and processes within the trapdoor spider genus *Antrodiaetus**.
+<figure>
+	<a href="{{ site.url }}/images/Erik.jpg"><img src="{{ site.url }}/images/Erik.jpg" alt="image" width="200" height=""> </a>
+</figure>
+{: .pull-right}
 
 <br>
 <br>
