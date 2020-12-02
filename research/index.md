@@ -28,13 +28,13 @@ Understanding how Earth's diversity has been shaped by evolution is one of the k
 
 
 ### Systematics
-Our research addresses a wide range of evolutionary questions by investigating the history of the Araneae (from alpha and beta taxonomy to macroevolutionary dynamics to species delimitation), with a focus predominantly on the Mygalomorphae, and in particular the Theraphosidae (tarantulas). We also work on Lepidoptera, predominantly the superfamily Bombycoidea, and in particular the Saturniidae (silkmoths).
 <figure>
 
 	<a href="{{ site.url }}/images/mygalomorph_phylo.jpg"><img src="{{ site.url }}/images/mygalomorph_phylo.jpg" alt="image" width="238.4" height="350"> </a>
 
 </figure>
 {: .pull-right}
+Our research addresses a wide range of evolutionary questions by investigating the history of the Araneae (from alpha and beta taxonomy to macroevolutionary dynamics to species delimitation), with a focus predominantly on the Mygalomorphae, and in particular the Theraphosidae (tarantulas). We also work on Lepidoptera, predominantly the superfamily Bombycoidea, and in particular the Saturniidae (silkmoths).
 
 *Evolution and systematics of Aphonopelma -* *Aphonopelma* is a group where traditional morphological characters were generally ineffective at evaluating inter- and intraspecific variation, with the genus declared “one of the greatest known challenges to species delimitation in spiders”. The principal goal of this research was and is to formally resolve the species-level diversity by using an integrative approach that combined phylogenomics with morphological, geographic, and behavioral data to define species boundaries.
 
