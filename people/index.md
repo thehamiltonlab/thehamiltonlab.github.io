@@ -33,6 +33,8 @@ email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu) or Twitter 
 	<a href="{{ site.url }}/images/Karina.jpg"><img src="{{ site.url }}/images/Karina.jpg" alt="image" width="200" height=""> </a>
 </figure>
 {: .pull-right}
+<br>
+<br>
 
 **Erik Ciaccio** - Erik is working on understanding the species diversity and evolutionary patterns and processes within the trapdoor spider genus *Antrodiaetus**.
 <figure>
