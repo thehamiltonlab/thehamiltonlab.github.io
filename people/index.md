@@ -36,6 +36,8 @@ email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu) or Twitter 
 Karina is working on understanding the diversity and evolutionary history of the tarantula genus *Aphonopelma* across the Madrean Pine-Oak Woodlands Hotspot (aka - the sky islands of southern Arizona, New Mexico, and northern Mexico). This is Karina holding a mature male *A. catalina*.
 <br>
 <br>
+<br>
+<br>
 
 **Erik Ciaccio**
 <figure>
