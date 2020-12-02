@@ -49,7 +49,7 @@ Karina comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) at Sa
 {: .pull-right}
 Erik is working on understanding the species diversity and evolutionary patterns and processes within the trapdoor spider genus *Antrodiaetus*. This is Erik finding his very first *Antrodiaetus*, in the Galiuro Mountains of Arizona!
 
-Erik also comes to us from Marshal Hedin's lab @ SDSU, where he got his Masters working on the spider genus *Hypochilus*. Thank you Marshal!
+Erik also comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) @ SDSU, where he got his Masters working on the spider genus *Hypochilus*. Thank you Marshal!
 
 <br>
 <br>
