@@ -43,12 +43,7 @@ Our research addresses a wide range of evolutionary questions by investigating t
 *Evolution and systematics of the trapdoor spider genus Antrodiaetus -* *Antrodiaetus* is a mygalomorph spider commonly referred to as folding trapdoor spiders. The genus is distributed in a classic disjunct Holarctic distribution, with Nearctic species further divided by the mountains in the East and West. This distribution is commonly found in poorly dispersing terrestrial fauna that are restricted to mesic, montane environments. Antrodiaetus species show morphological stasis and variation across their distribution. Individuals from localities separated by hundreds of kilometers may be morphologically indistinguishable, yet spiders at the same location may exhibit significant disparities in size and coloration. They represent an important focal taxon for studying the abiotic forces that influence diversity, both readily identifiable and cryptic.
 
 *Evolution and systematics of the silk moth genus Coloradia -* The genus *Coloradia* ranges throughout the montane coniferous forests of the western United States and Mexico. At present, there are 26 described species throughout their range, with six in the United States. These medium-sized moths are cryptically colored, with black, gray, brown, and white forewings that match the bark of pine trees. The larvae of all species feed primarily on pine (*Pinus*).
-<figure>
 
-	<a href="{{ site.url }}/images/Coloradia.jpg"><img src="{{ site.url }}/images/Coloradia.jpg" alt="image" width="238.4" height="350"> </a>
-
-</figure>
-{: .pull-right}
 
 ### Body Size Evolution
 
@@ -66,7 +61,7 @@ Body size is one of the most important determinants of an organism’s ecologica
 
 <figure>
 
-	<a href="{{ site.url }}/images/cartoon.jpeg"><img src="{{ site.url }}/images/cartoon.jpeg" alt="image" width="332.3" height="325"> </a>
+	<a href="{{ site.url }}/images/cartoon.jpg"><img src="{{ site.url }}/images/cartoon.jpg" alt="image" width="332.3" height="325"> </a>
 
 </figure>
 {: .pull-right}
