@@ -28,7 +28,7 @@ Understanding how Earth's diversity has been shaped by evolution is one of the k
 
 
 ### Systematics
-Our research addresses a wide range of questions by investigating the evolutionary history of the Araneae (from alpha and beta taxonomy to macroevolutionary dynamics to species delimitation), with a focus predominantly on the Mygalomorphae, and in particular the Theraphosidae (tarantulas). We also work on Lepidoptera, predominantly the superfamily Bombycoidea, and in particular the Saturniidae (silkmoths).
+Our research addresses a wide range of evolutionary questions by investigating the history of the Araneae (from alpha and beta taxonomy to macroevolutionary dynamics to species delimitation), with a focus predominantly on the Mygalomorphae, and in particular the Theraphosidae (tarantulas). We also work on Lepidoptera, predominantly the superfamily Bombycoidea, and in particular the Saturniidae (silkmoths).
 <figure>
 
 	<a href="{{ site.url }}/images/mygalomorph_phylo.jpg"><img src="{{ site.url }}/images/mygalomorph_phylo.jpg" alt="image" width="238.4" height="350"> </a>
@@ -38,9 +38,13 @@ Our research addresses a wide range of questions by investigating the evolutiona
 
 *Evolution and systematics of Aphonopelma -* *Aphonopelma* is a group where traditional morphological characters were generally ineffective at evaluating inter- and intraspecific variation, with the genus declared “one of the greatest known challenges to species delimitation in spiders”. The principal goal of this research was and is to formally resolve the species-level diversity by using an integrative approach that combined phylogenomics with morphological, geographic, and behavioral data to define species boundaries.
 
-*The Theraphosidae Tree of Life -* Future research will expand this systematic work throughout the family Theraphosidae (tarantulas), resolving relationships and attempting to explain how this family became one of the most diverse of all spiders.
+*Understanding the Theraphosidae & Barychelidae Tree of Life -* Future research will look to better understand the relationships of theraphosids and barychelids and attempt to explain how the two families are different and how they became one of the most diverse lineages of all spiders.
 
-*The evolution of eye-loss in troglophilic tarantulas -* One important aspect of this work will be my growing collaboration with researchers in Mexico – an incredibly diverse region with a large number of species that have been overlooked, undersampled, and undescribed. A major focus of this collaborative endeavor will be to better understand the evolution of the blind, troglophilic tarantula species of Mexico (*Hemirrhagus*) – the only place where this is known to occur. 
+*Evolution and systematics of the trapdoor spider genus Antrodiaetus -* *Antrodiaetus* is a mygalomorph spider commonly referred to as folding trapdoor spiders. The genus is distributed in a classic disjunct Holarctic distribution, with Nearctic species further divided by the mountains in the East and West. This distribution is commonly found in poorly dispersing terrestrial fauna that are restricted to mesic, montane environments. Antrodiaetus species show morphological stasis and variation across their distribution. Individuals from localities separated by hundreds of kilometers may be morphologically indistinguishable, yet spiders at the same location may exhibit significant disparities in size and coloration. They represent an important focal taxon for studying the abiotic forces that influence diversity, both readily identifiable and cryptic.
+
+*Evolution and systematics of the silk moth genus Coloradia -* The genus *Coloradia* ranges throughout the montane coniferous forests of the western United States and Mexico. At present, there are 26 described species throughout their range, with six in the United States. These medium-sized moths are cryptically colored, with black, gray, brown, and white forewings that match the bark of pine trees. The larvae of all species feed primarily on pine (*Pinus*).
+
+#*The evolution of eye-loss in troglophilic tarantulas -* One important aspect of this work will be my growing collaboration with researchers in Mexico – an incredibly diverse region with a large number of species that have been overlooked, undersampled, and undescribed. A major focus of this collaborative endeavor will be to better understand the evolution of the blind, troglophilic tarantula species of Mexico (*Hemirrhagus*) – the only place where this is known to occur. 
 
 
 ### Body Size Evolution
@@ -81,6 +85,18 @@ Convergence is a striking example of the power of natural selection. But is conv
 To do this, my research combines phylogenetics, functional genomics, geometric morphometrics, and behavioral experiments to investigate the mechanisms behind these patterns. For example, future work will look to understand whether convergence is correlated with niche and/or predatory variables (e.g., community composition, distributions, interactions), and/or genomic changes (i.e., gene expression and regulation patterns) - Can we predict where hindwing tails will evolve, or putatively have evolved, in the Saturniidae moths?
 
 
+### Effects of Climate Change on Pest Distribution Expansion
+
+<figure>
+
+	<a href="{{ site.url }}/images/Pandora_outbreak.JPG"><img src="{{ site.url }}/images/Pandora_outbreak.JPG" alt="image" width="300" height=""> </a>
+
+</figure>
+{: .pull-right}
+
+Adapting to changing climate is a fundamental challenge for life on Earth. Distributions change as organisms are forced to search for hospitable habitat, either retracting from areas no longer favorable or expanding into new areas with more suitable environmental conditions. Oftentimes, these changes result in taxa having a novel presence in a given area. This novelty brings with it the potential for unchecked population outbreaks due to a lack of pre-existing predators or other balancing effects that normally prevent serious environmental or economic impacts from occurring in the organism’s historical range. To gain a better evolutionary understanding of the genomic and phenotypic links of this phenomenon and its relation to climate change, we are focusing on a widespread species in the Western United States, the Pandora Pine Moth (*Coloradia pandora*), a species with unpredictable population outbreaks that is already expanding into novel areas, where it feeds on several pine (*Pinus* spp.) species, in particular the economically significant lodgepole, Jeffrey, and ponderosa pines.
+
+
 ### Machine Learning
 
 <figure>
@@ -97,6 +113,8 @@ One major challenge for biodiversity discovery is the time and effort required t
 ### Outreach
 
 As a member of the Chickasaw Nation of Oklahoma, I have a personal investment to engage and mentor fellow Native American students. The inclusion of underrepresented groups in biology, is essential to enhancing scientific literacy in the United States. I recently created a program involving middle school and high school students from the Chickasaw Nation of Oklahoma to engage them into modern biological research. This program uses the exciting bat-moth evolutionary arms race to get students into nature, collect specimens, and teaches them how to participate in DNA extraction and high-throughput sequencing with an Oxford Nanopore MinION, while also learning coding. Students take the assembled sequences, identify the CO1 barcode, and use BOLD to identify the species they have collected. I am now working to adapt this approach for STEM education in Idaho, in particular our native tribes.
+
+Here in Idaho, I work with the tribes to provide opportunities for the next generation to access and develop the skills and knowledge they deem necessary for strengthening Tribal sovereignty and self-determination.
 
 <br>
 
