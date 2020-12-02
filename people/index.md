@@ -36,8 +36,6 @@ email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu) or Twitter 
 Karina is working on understanding the diversity and evolutionary history of the tarantula genus *Aphonopelma* across the Madrean Pine-Oak Woodlands Hotspot (aka - the sky islands of southern Arizona, New Mexico, and northern Mexico). This is Karina holding a mature male *A. catalina*.
 
 Karina comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) at San Diego State University, where she worked on jumping spider research as an undergraduate.
-
-<br>
 <br>
 <br>
 <br>
@@ -50,7 +48,6 @@ Karina comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) at Sa
 Erik is working on understanding the species diversity and evolutionary patterns and processes within the trapdoor spider genus *Antrodiaetus*. This is Erik finding his very first *Antrodiaetus*, in the Galiuro Mountains of Arizona!
 
 Erik also comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) @ SDSU, where he got his Masters working on the spider genus *Hypochilus*. Thank you Marshal!
-
 <br>
 <br>
 <br>
