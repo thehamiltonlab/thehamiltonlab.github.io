@@ -41,8 +41,6 @@ Karina comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) at Sa
 <br>
 <br>
 <br>
-<br>
-<br>
 
 **Erik Ciaccio**
 <figure>
