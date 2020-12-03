@@ -21,7 +21,7 @@ image:
 My goal as an advisor is to help students become broadly trained in arthropod systematics and phylogenetics while they develop as independent researchers by learning to identify interesting questions and the approaches necessary to address those questions. As a Native person in academia, I want to be effective in my roles – as a mentor, as a holder of knowledge, and as an educator.
 
 View my [faculty profile](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology/our-people/chris-hamilton) or [CV]({{ site.url }}/people/Hamilton_CV.pdf)
-2020-21 Vice President, Systematics, Evolution, & Biodiversity section of the Entomological Society of America [(SysEB)](https://www.entsoc.org/syseb)
+2020-21 Vice President - Systematics, Evolution, & Biodiversity section of the Entomological Society of America [(SysEB)](https://www.entsoc.org/syseb)
 
 email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu) or Twitter - [@8legs2fangs](https://twitter.com/8legs2fangs)
 
