@@ -39,7 +39,12 @@ Our research addresses a wide range of evolutionary questions by investigating t
 *Evolution and systematics of Aphonopelma -* *Aphonopelma* is a group where traditional morphological characters were generally ineffective at evaluating inter- and intraspecific variation, with the genus declared “one of the greatest known challenges to species delimitation in spiders”. The principal goal of this research was and is to formally resolve the species-level diversity by using an integrative approach that combined phylogenomics with morphological, geographic, and behavioral data to define species boundaries.
 
 *Understanding the Theraphosidae & Barychelidae Tree of Life -* Future research will look to better understand the relationships of theraphosids and barychelids and attempt to explain how the two families are different and how they became one of the most diverse lineages of all spiders.
+<figure>
 
+	<a href="{{ site.url }}/images/Antrodiaetus_pugnax.jpg"><img src="{{ site.url }}/images/Antrodiaetus_pugnax.jpg" alt="image" width="238.4" height="350"> </a>
+
+</figure>
+{: .pull-right}
 *Evolution and systematics of the trapdoor spider genus Antrodiaetus -* *Antrodiaetus* is a mygalomorph spider commonly referred to as folding trapdoor spiders. The genus is distributed in a classic disjunct Holarctic distribution, with Nearctic species further divided by the mountains in the East and West. This distribution is commonly found in poorly dispersing terrestrial fauna that are restricted to mesic, montane environments. Antrodiaetus species show morphological stasis and variation across their distribution. Individuals from localities separated by hundreds of kilometers may be morphologically indistinguishable, yet spiders at the same location may exhibit significant disparities in size and coloration. They represent an important focal taxon for studying the abiotic forces that influence diversity, both readily identifiable and cryptic.
 
 *Evolution and systematics of the silk moth genus Coloradia -* The genus *Coloradia* ranges throughout the montane coniferous forests of the western United States and Mexico. At present, there are 26 described species throughout their range, with six in the United States. These medium-sized moths are cryptically colored, with black, gray, brown, and white forewings that match the bark of pine trees. The larvae of all species feed primarily on pine (*Pinus*).
