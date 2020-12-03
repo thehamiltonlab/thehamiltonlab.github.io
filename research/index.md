@@ -41,7 +41,7 @@ Our research addresses a wide range of evolutionary questions by investigating t
 *Understanding the Theraphosidae & Barychelidae Tree of Life -* Future research will look to better understand the relationships of theraphosids and barychelids and attempt to explain how the two families are different and how they became one of the most diverse lineages of all spiders.
 <figure>
 
-	<a href="{{ site.url }}/images/Antrodiaetus_pugnax.jpg"><img src="{{ site.url }}/images/Antrodiaetus_pugnax.jpg" alt="image" width="238.4" height="350"> </a>
+	<a href="{{ site.url }}/images/Antrodiaetus_pugnax.jpg"><img src="{{ site.url }}/images/Antrodiaetus_pugnax.jpg" alt="image" width="300" height="231.8"> </a>
 
 </figure>
 {: .pull-right}
