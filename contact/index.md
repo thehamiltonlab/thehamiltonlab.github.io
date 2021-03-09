@@ -37,6 +37,8 @@ image:
 
 <br>
 
+Land Acknowledgement Statement – Moscow Campus: UI Moscow is located on the homelands of the Nimiipu (Nez Perce). We extend gratitude to the indigenous people that call this place home, since time immemorial. UI recognizes that it is our academic responsibility to build relationships with the indigenous people to ensure integrity of tribal voices.
+
 <figure>
 
 	<a href="{{ site.url }}/images/Arthropod Molecular Systematics Lab-On white.png"><img src="{{ site.url }}/images/Arthropod Molecular Systematics Lab-On white.png" alt="image" width="100"> </a>
