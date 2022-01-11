@@ -13,6 +13,8 @@ image:
 
 # Arthropod Systematics & Phylogenetics
 
+Chokma! Saholhchifoat Chris Hamilton. Chikashsha saya.
+
 The Hamilton Lab is in the [*Department of Entomology, Plant Pathology & Nematology*](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology) at the [*University of Idaho*](http://www.uidaho.edu), and is affiliated with the [*Institute for Bioinformatics and Evolutionary Studies (IBEST)*](http://www.ibest.uidaho.edu). Our lab, and the University of Idaho, lives and works on the unceded homeland of the Nimi’ipuu (Nez Perce), Schitsu’umsh (Coeur d’Alene), Kalispel, Kootenai, Paiute, and Shoshone-Bannock peoples.
 
 I consider myself an evolutionary biologist, but I'm also an arachnologist, lepidopterist, treethinker, Chickasaw, Gooner, hockey beer-leaguer, and (most importantly) dad. Driven by a passion to tell stories of our planet, my journey to biology came through photojournalism (my previous career before coming back to school). My experiences documenting the stories of diverse cultures and contexts complement my love of understanding the biological world around us. For me, biology is a tool to continue telling stories about ourselves and our planet. As an Indigenous scholar, I am in the process of discovering ways to tell stories in both TEK (Traditional Ecological Knowledge) approaches and western science. Blending cultural and physical worlds was a natural transition, as our people are the original “natural historians”. We understood the land, it is flora and fauna, and the interactions of these organisms, long before western science “discovered” them.
