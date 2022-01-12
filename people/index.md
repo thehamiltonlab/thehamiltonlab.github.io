@@ -22,7 +22,7 @@ My goal as an advisor is to help students become broadly trained in arthropod sy
 
 View my [faculty profile](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology/our-people/chris-hamilton) or [CV]({{ site.url }}/people/Hamilton_CV.pdf)
 
-2020-21 Vice President - Systematics, Evolution, & Biodiversity section of the Entomological Society of America [(SysEB)](https://www.entsoc.org/syseb)
+2021-22 President - Systematics, Evolution, & Biodiversity section of the Entomological Society of America [(SysEB)](https://www.entsoc.org/syseb)
 
 email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu) or Twitter - [@8legs2fangs](https://twitter.com/8legs2fangs)
 
@@ -50,6 +50,18 @@ Karina comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) at Sa
 Erik is working on understanding the species diversity and evolutionary patterns and processes within the trapdoor spider genus *Antrodiaetus*. This is Erik finding his very first *Antrodiaetus*, in the Galiuro Mountains of Arizona!
 
 Erik also comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) @ SDSU, where he got his Masters working on the spider genus *Hypochilus*. Thank you Marshal!
+<br>
+<br>
+<br>
+
+### Lab Manager
+
+**Andrea Noble Stuen**
+<figure>
+	<a href="{{ site.url }}/images/?.jpg"><img src="{{ site.url }}/images/?.jpg" alt="image" width="200" height=""> </a>
+</figure>
+{: .pull-right}
+Andrea is the glue that holds together the Arthropod Molecular Systematics Lab.
 <br>
 <br>
 <br>

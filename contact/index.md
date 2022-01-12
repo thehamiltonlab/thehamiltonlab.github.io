@@ -37,7 +37,7 @@ image:
 
 <br>
 
-Land Acknowledgement Statement – Moscow Campus: UI Moscow is located on the homelands of the Nimiipu (Nez Perce). We extend gratitude to the indigenous people that call this place home, since time immemorial. UI recognizes that it is our academic responsibility to build relationships with the indigenous people to ensure integrity of tribal voices.
+Land Acknowledgement Statement – Moscow Campus: UI Moscow is located on the homelands of the Nimiipu (Nez Perce). We extend gratitude to the indigenous people that call this place home, since time immemorial. UI recognizes that it is our academic responsibility to build relationships with the indigenous people to ensure integrity of tribal voices. Words are meaningless without action.
 
 <figure>
 
