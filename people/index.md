@@ -58,10 +58,10 @@ Erik also comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) @ 
 
 **Andrea Noble Stuen**
 <figure>
-	<a href="{{ site.url }}/images/?.jpg"><img src="{{ site.url }}/images/?.jpg" alt="image" width="200" height=""> </a>
+	<a href="{{ site.url }}/images/Andrea_in_lab.jpg"><img src="{{ site.url }}/images/Andrea_in_lab.jpg" alt="image" width="200" height=""> </a>
 </figure>
 {: .pull-right}
-Andrea is the glue that holds together the Arthropod Molecular Systematics Lab.
+Andrea is the glue that holds together the Arthropod Molecular Systematics Lab. She joined the AMS lab in Fall 2020 and is loving the variety of working here, from molecular lab techniques to data management to macro photography and teaching and supporting others. She received her MS in Natural Resources from the University of Idaho, and a BA in Environmental Biology and Fine Arts from University of Colorado. She managed the daily work in a limnology (freshwater ecology) lab in Colorado, and brings experience from work in analytical chemistry, tree physiology, soils, fish ecology, and forestry. She is now thoroughly enjoying exploring arthropods and DNA.
 <br>
 <br>
 <br>
