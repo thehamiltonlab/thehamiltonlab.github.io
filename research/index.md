@@ -112,7 +112,7 @@ Here in Idaho, I work with the tribes to provide opportunities for the next gene
 
 <figure>
 
-	<a href="{{ site.url }}/images/drawings.mp4"><img src="{{ site.url }}/images/drawings.mp4" alt="video" width="300" height=""> </a>
+	<a href="{{ site.url }}/images/drawings.mp4"><img src="{{ site.url }}/images/drawings.mp4" alt="video" width="600" height=""> </a>
 
 </figure>
 

@@ -28,7 +28,7 @@ Check out the [**research**]({{ site.url }}/research) page to learn more about h
 
 <figure>
 
-	<a href="{{ site.url }}/images/specimen_processing.mov"><img src="{{ site.url }}/images/specimen_processing.mov" alt="video" width="300" height=""> </a>
+	<a href="{{ site.url }}/images/specimen_processing.mov"><img src="{{ site.url }}/images/specimen_processing.mov" alt="video" width="600" height=""> </a>
 
 </figure>
 
