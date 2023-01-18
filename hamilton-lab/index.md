@@ -26,6 +26,12 @@ As a member of the Chickasaw Nation of Oklahoma, I have a personal investment to
 
 Check out the [**research**]({{ site.url }}/research) page to learn more about how we use phylogenies and whole genomes to address evolutionary questions in spiders and moths.
 
+<figure>
+
+	<a href="{{ site.url }}/images/specimen_processing.mov"><img src="{{ site.url }}/images/specimen_processing.mov" alt="video" width="300" height=""> </a>
+
+</figure>
+
 <br>
 
 <figure>

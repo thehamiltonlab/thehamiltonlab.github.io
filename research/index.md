@@ -110,6 +110,13 @@ My program here in Idaho, and with the San Carlos Apache in Arizona, seeks to us
 
 Here in Idaho, I work with the tribes to provide opportunities for the next generation to access and develop the skills and knowledge they deem necessary for strengthening Tribal sovereignty and self-determination.
 
+<figure>
+
+	<a href="{{ site.url }}/images/drawings.mp4"><img src="{{ site.url }}/images/drawings.mp4" alt="video" width="300" height=""> </a>
+
+</figure>
+
+
 <br>
 
 <figure>
