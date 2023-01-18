@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prospective Students
-excerpt: "How to join the Hamilton Lab"
+excerpt: "How to join the Arthropod Molecular Systematics Lab"
 modified: 
 image:
   feature: sphingid.jpg
