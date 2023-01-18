@@ -7,7 +7,7 @@ image:
   feature: sphingid.jpg
 ---
 
-**My lab, and the Arthropod Molecular Systematics Lab ([coPI Marek Borowiec](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology/our-people/marek-borowiec)), are a family. We want to build a diverse and interactive lab group interested in phylogenies and their applications in understanding the evolution of spider and moth biodiversity.**
+**My lab (the Arthropod Molecular Systematics Lab) wants to build a diverse and interactive lab group interested in phylogenies and their applications in understanding the evolution of spider and moth biodiversity.**
 
 *We are a safe space for people of all races, genders, sexual orientations, and abilities.*
 <br>
@@ -46,7 +46,7 @@ There are numerous possibilities for small projects in the lab and I encourage i
 
 <figure>
 
-	<a href="{{ site.url }}/images/Arthropod Molecular Systematics Lab-On white.png"><img src="{{ site.url }}/images/Arthropod Molecular Systematics Lab-On white.png" alt="image" width="100"> </a>
+	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="100"> </a>
 
 </figure>
 {: .center}

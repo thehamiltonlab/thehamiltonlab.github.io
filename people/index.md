@@ -22,7 +22,7 @@ My goal as an advisor is to help students become broadly trained in arthropod sy
 
 View my [faculty profile](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology/our-people/chris-hamilton) or [CV]({{ site.url }}/people/Hamilton_CV.pdf)
 
-2021-22 President - Systematics, Evolution, & Biodiversity section of the Entomological Society of America [(SysEB)](https://www.entsoc.org/syseb)
+2022-23 Past President - Systematics, Evolution, & Biodiversity section of the Entomological Society of America [(SysEB)](https://www.entsoc.org/syseb)
 
 email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu) or Twitter - [@8legs2fangs](https://twitter.com/8legs2fangs)
 
@@ -54,6 +54,18 @@ Erik also comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) @ 
 <br>
 <br>
 
+**Arnau Calatayud Mascarell**
+<figure>
+	<a href="{{ site.url }}/images/chris-hamilton_onblack.png"><img src="{{ site.url }}/images/chris-hamilton_onblack.png" alt="image" width="200" height=""> </a>
+</figure>
+{: .pull-right}
+Arnau is working on understanding the diversity and evolutionary history of the mygalomorph genus *Euagrus* across the southwestern United States, the Madrean Pine-Oak Woodlands Hotspot (aka - the sky islands of southern Arizona, New Mexico, and northern Mexico), and Mexico.
+
+Arnau comes to us from Miguel Arnedo's [lab](https://marnedo.net) at the Departament de Biologia Evolutiva, Ecologia i Ciències Ambientals, Fac. Biologia, Universitat de Barcelona, where he worked on mygalomorph spider research for his Masters degree.
+<br>
+<br>
+<br>
+
 ### Lab Manager
 
 **Andrea Noble Stuen**
@@ -72,7 +84,7 @@ Andrea is the glue that holds together the Arthropod Molecular Systematics Lab. 
 
 <figure>
 
-	<a href="{{ site.url }}/images/Arthropod Molecular Systematics Lab-On white.png"><img src="{{ site.url }}/images/Arthropod Molecular Systematics Lab-On white.png" alt="image" width="100"> </a>
+	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="100"> </a>
 
 </figure>
 {: .center}
