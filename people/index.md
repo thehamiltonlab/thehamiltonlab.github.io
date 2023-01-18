@@ -56,12 +56,12 @@ Erik also comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) @ 
 
 **Arnau Calatayud Mascarell**
 <figure>
-	<a href="{{ site.url }}/images/chris-hamilton_onblack.png"><img src="{{ site.url }}/images/chris-hamilton_onblack.png" alt="image" width="200" height=""> </a>
+	<a href="{{ site.url }}/images/Arnau.JPG"><img src="{{ site.url }}/images/Arnau.JPG" alt="image" width="200" height=""> </a>
 </figure>
 {: .pull-right}
 Arnau is working on understanding the diversity and evolutionary history of the mygalomorph genus *Euagrus* across the southwestern United States, the Madrean Pine-Oak Woodlands Hotspot (aka - the sky islands of southern Arizona, New Mexico, and northern Mexico), and Mexico.
 
-Arnau comes to us from Miguel Arnedo's [lab](https://marnedo.net) at the Departament de Biologia Evolutiva, Ecologia i Ciències Ambientals, Fac. Biologia, Universitat de Barcelona, where he worked on mygalomorph spider research for his Masters degree.
+Arnau comes to us from Miguel Arnedo's [lab](https://marnedo.net) at the Departament de Biologia Evolutiva, Ecologia i Ciències Ambientals, Fac. Biologia, Universitat de Barcelona, where he worked on mygalomorph spider research for his Masters degree. This is Arnau in the Sahara Desert, in an expedition to Morocco searching for tarantulas.
 <br>
 <br>
 <br>
