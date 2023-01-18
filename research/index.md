@@ -100,19 +100,6 @@ To do this, my research combines phylogenetics, functional genomics, geometric m
 Adapting to changing climate is a fundamental challenge for life on Earth. Distributions change as organisms are forced to search for hospitable habitat, either retracting from areas no longer favorable or expanding into new areas with more suitable environmental conditions. Oftentimes, these changes result in taxa having a novel presence in a given area. This novelty brings with it the potential for unchecked population outbreaks due to a lack of pre-existing predators or other balancing effects that normally prevent serious environmental or economic impacts from occurring in the organism’s historical range. To gain a better evolutionary understanding of the genomic and phenotypic links of this phenomenon and its relation to climate change, we are focusing on a widespread species in the Western United States, the Pandora Pine Moth (*Coloradia pandora*), a species with unpredictable population outbreaks that is already expanding into novel areas, where it feeds on several pine (*Pinus* spp.) species, in particular the economically significant lodgepole, Jeffrey, and ponderosa pines.
 
 
-### Machine Learning
-
-<figure>
-
-	<a href="{{ site.url }}/images/skynet2.png"><img src="{{ site.url }}/images/skynet2.png" alt="image" width="200" height=""> </a>
-
-</figure>
-{: .pull-right}
-
-Current rates of species loss exceed the historical extinction rate by several orders of magnitude. This loss has been shown to destabilize Earth’s ecosystems and diminish the benefits they provide to humanity. After ~300 years of taxonomy, ~1.5 million species have been described (of the 8-9 million estimated non-microbial species). Furthermore, 57% of the 150 most commonly prescribed drugs in the U.S. contain active ingredients derived from natural compounds extracted from this biodiversity. If radical changes are not implemented, we will continue to lose species before knowing anything about their role in ecosystems or potential for human health.
-One major challenge for biodiversity discovery is the time and effort required to determine and describe new species. This has led to an incredible "taxonomic backlog". Our research team (the Hamilton Lab and collaborators) is developing machine learning tools to more easily and cheaply accelerate biodiversity discovery.
-
-
 ### Outreach
 
 I have a very unique position here at UI. As an extension specialist, I have been tasked with building a STEM outreach and education program with the tribal students of Idaho, a role that no other faculty member at the university holds. In addition to educating K-12 tribal students in biology-centered STEM activities, I feel that my role at UI is to also be a tribal liaison in the college and my department, as well as recruiting and working to retain Native students (both undergraduate and graduate) and engaging and growing the Native community on campus.
