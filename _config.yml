@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: The Hamilton Lab
+title: The Arthropod Molecular Systematics Lab at the University of Idaho
 locale: en_US
-description: part of the Arthropod Molecular Systematics Lab at the University of Idaho
+description: The Hamilton Lab
 logo: chris-hamilton_onblack.png
 search: true
 url: "https://thehamiltonlab.github.io"
