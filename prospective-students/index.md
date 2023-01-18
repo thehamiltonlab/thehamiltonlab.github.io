@@ -20,7 +20,7 @@ Students will obtain research experience in a molecular laboratory, field work u
 
 Student projects can be tied into ongoing research or developed according to mutual interests.
 
-To learn more about the incredible community of evolutionary biologists at the University of Idaho, check out the [*Department of Entomology, Plant Pathology & Nematology*](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology), the [*Department of Biological Sciences*](http://www.uidaho.edu/sci/biology), the [*Institute for Bioinformatics and Evolutionary Studies (IBEST)*](http://www.uidaho.edu/research/ibest), and the [*Bioinformatics and Computational Biology Program*](http://www.uidaho.edu/cogs/bcb).
+To learn more about the incredible community of evolutionary biologists at the University of Idaho, check out the [*Department of Entomology, Plant Pathology & Nematology*](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology), the [*Department of Biological Sciences*](http://www.uidaho.edu/sci/biology), and the [*Bioinformatics and Computational Biology Program*](http://www.uidaho.edu/cogs/bcb).
 
 
 #### interested?
