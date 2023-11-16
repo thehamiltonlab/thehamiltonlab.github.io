@@ -70,7 +70,7 @@ Arnau comes to us from Miguel Arnedo's [lab](https://marnedo.net) at the Departa
 
 **Ethan Briggs**
 <figure>
-	<a href="{{ site.url }}/images/Ethan_lab_photo.jpg"><img src="{{ site.url }}/images/Ethan_lab_photo.jpg" alt="image" width="168.8" height="300"> </a>
+	<a href="{{ site.url }}/images/Ethan_lab_photo.jpg"><img src="{{ site.url }}/images/Ethan_lab_photo.jpg" alt="image" width="200" height=""> </a>
 </figure>
 {: .pull-right}
 Ethan comes to us from the Lyn Cook and Cynthia Riginos labs at The University of Queensland Australia, where he worked on the biogeography and systematics of the Australian tarantulas for his PhD. He joined the AMS lab in Fall 2023 and will be working on spider and moth genomics.
