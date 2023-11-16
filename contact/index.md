@@ -21,10 +21,6 @@ image:
 
 
 #### Phone
-<figure>
-	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" style="float:right" width="200" ></a>
-</figure>
-{: .pull-right}
 <ul style="list-style-type:none">
   <li>Office (Ag Sci 229)</li>
   <li>208-885-1166</li>
@@ -34,6 +30,11 @@ image:
 
 #### Email
 [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu)
+
+<figure>
+	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" style="float:right" width="200" ></a>
+</figure>
+{: .pull-right}
 
 <br>
 
