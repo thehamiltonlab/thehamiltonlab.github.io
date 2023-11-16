@@ -41,9 +41,11 @@ Our research addresses a wide range of evolutionary questions by investigating t
 <figure>
 	<a href="{{ site.url }}/images/Sierra_San_Luis.jpeg"><img src="{{ site.url }}/images/Sierra_San_Luis.jpeg" alt="image" width="200" height="300.2"> </a>
 </figure>
+{: .pull-right}
 <figure>
 	<a href="{{ site.url }}/images/Sierra_Aconchi.JPG"><img src="{{ site.url }}/images/Sierra_Aconchi.JPG" alt="image" width="200" height=""> </a>
 </figure>
+{: .pull-right}
 
 *Understanding the Theraphosidae & Barychelidae Tree of Life -* Future research will look to better understand the relationships of theraphosids and barychelids and attempt to explain how the two families are different and how they became one of the most diverse lineages of all spiders.
 
