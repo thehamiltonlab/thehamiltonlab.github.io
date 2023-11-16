@@ -22,7 +22,7 @@ My goal as an advisor is to help students become broadly trained in arthropod sy
 
 View my [faculty profile](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology/our-people/chris-hamilton) or [CV]({{ site.url }}/people/Hamilton_CV.pdf)
 
-2022-23 Past President - Systematics, Evolution, & Biodiversity section of the Entomological Society of America [(SysEB)](https://www.entsoc.org/syseb)
+Past President - Systematics, Evolution, & Biodiversity section of the Entomological Society of America [(SysEB)](https://www.entsoc.org/syseb)
 
 email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu) or Twitter - [@8legs2fangs](https://twitter.com/8legs2fangs)
 
@@ -62,6 +62,18 @@ Erik also comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) @ 
 Arnau is working on understanding the diversity and evolutionary history of the mygalomorph genus *Euagrus* across the southwestern United States, the Madrean Pine-Oak Woodlands Hotspot (aka - the sky islands of southern Arizona, New Mexico, and northern Mexico), and Mexico.
 
 Arnau comes to us from Miguel Arnedo's [lab](https://marnedo.net) at the Departament de Biologia Evolutiva, Ecologia i Ciències Ambientals, Fac. Biologia, Universitat de Barcelona, where he worked on mygalomorph spider research for his Masters degree. This is Arnau in the Sahara Desert, in an expedition to Morocco searching for tarantulas.
+<br>
+<br>
+<br>
+
+### Postdoctoral Researcher
+
+**Ethan Briggs**
+<figure>
+	<a href="{{ site.url }}/images/Ethan_lab_photo.jpg"><img src="{{ site.url }}/images/Ethan_lab_photo.jpg" alt="image" width="168.8" height="300"> </a>
+</figure>
+{: .pull-right}
+Ethan comes to us from the Lyn Cook and Cynthia Riginos labs at The University of Queensland Australia, where he worked on the biogeography and systematics of the Australian tarantulas for his PhD. He joined the AMS lab in Fall 2023 and will be working on spider and moth genomics.
 <br>
 <br>
 <br>

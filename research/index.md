@@ -41,11 +41,20 @@ Our research addresses a wide range of evolutionary questions by investigating t
 *Understanding the Theraphosidae & Barychelidae Tree of Life -* Future research will look to better understand the relationships of theraphosids and barychelids and attempt to explain how the two families are different and how they became one of the most diverse lineages of all spiders.
 <figure>
 
+	<a href="{{ site.url }}/images/Sierra_San_Luis.jpeg"><img src="{{ site.url }}/images/Sierra_San_Luis.jpeg" alt="image" width="300" height="450.3"> </a> (200x300.2)
+
+</figure>
+
+
+<figure>
+
 	<a href="{{ site.url }}/images/Antrodiaetus_pugnax.jpg"><img src="{{ site.url }}/images/Antrodiaetus_pugnax.jpg" alt="image" width="300" height="231.8"> </a>
 
 </figure>
 {: .pull-right}
 *Evolution and systematics of the trapdoor spider genus Antrodiaetus -* *Antrodiaetus* is a mygalomorph spider commonly referred to as folding trapdoor spiders. The genus is distributed in a classic disjunct Holarctic distribution, with Nearctic species further divided by the mountains in the East and West. This distribution is commonly found in poorly dispersing terrestrial fauna that are restricted to mesic, montane environments. Antrodiaetus species show morphological stasis and variation across their distribution. Individuals from localities separated by hundreds of kilometers may be morphologically indistinguishable, yet spiders at the same location may exhibit significant disparities in size and coloration. They represent an important focal taxon for studying the abiotic forces that influence diversity, both readily identifiable and cryptic.
+
+*Evolution and systematics of the mygalomorph spider genus Euagrus -* *Euagrus* Ausserer, 1875 is a mygalomorph spider commonly referred to as funnel-web spiders. Euagrus comprises 20 nominal species distributed from the southern United States to Costa Rica. Since its morphological revision by Coyle (1988), the genus has received very little attention. The actual biodiversity of this group is far from known, especially in undersampled regions such as the Madrean Pine-Oak Woodlands, a biodiversity hotspot consisting of 65 isolated mountain ranges (sky islands) through-out southern Arizona and New Mexico, as well as northern Sonora and Chihuahua. Under the current warming climate, the Madrean Sky Islands are expected to became increasingly isolated due to montane habitat loss, creating species and population extinctions. Therefore, documenting its biodiversity could serve as the basis for conservation management strategies in this unique habitat.
 
 *Evolution and systematics of the silk moth genus Coloradia -* The genus *Coloradia* ranges throughout the montane coniferous forests of the western United States and Mexico. At present, there are 26 described species throughout their range, with six in the United States. These medium-sized moths are cryptically colored, with black, gray, brown, and white forewings that match the bark of pine trees. The larvae of all species feed primarily on pine (*Pinus*).
 
