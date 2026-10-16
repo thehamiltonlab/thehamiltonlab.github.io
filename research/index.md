@@ -28,13 +28,14 @@ Understanding how Earth's diversity has been shaped by evolution is one of the k
 <br>
 
 ### Systematics
+
 <figure style="float: right; width: 238px; margin: 0 0 1em 1.5em;">
   <a href="{{ site.url }}/images/mygalomorph_phylo.jpg"><img src="{{ site.url }}/images/mygalomorph_phylo.jpg" alt="Mygalomorph phylogeny" style="width: 100%; height: auto;"></a>
 </figure>
 
-Our research addresses a wide range of evolutionary questions... (your paragraphs)
+Our research addresses a wide range of evolutionary questions by investigating the history of the Araneae (from alpha and beta taxonomy to macroevolutionary dynamics to species delimitation), with a focus predominantly on the Mygalomorphae, and in particular the Theraphosidae (tarantulas). We also work on Lepidoptera, predominantly the superfamily Bombycoidea, and in particular the Saturniidae (silkmoths).
 
-*Evolution and systematics of* **Aphonopelma** - ... (your paragraph)
+*Evolution and systematics of* **Aphonopelma** - is a group where traditional morphological characters were generally ineffective at evaluating inter- and intraspecific variation, with the genus declared “one of the greatest known challenges to species delimitation in spiders”. The principal goal of this research was and is to formally resolve the species-level diversity by using an integrative approach that combined phylogenomics with morphological, geographic, and behavioral data to define species boundaries.
 
 <div style="display: flex; gap: 1em; justify-content: center; clear: both; margin: 1em 0;">
   <a href="{{ site.url }}/images/Sierra_San_Luis.jpeg"><img src="{{ site.url }}/images/Sierra_San_Luis.jpeg" alt="Sierra San Luis" style="width: 200px; height: auto;"></a>
@@ -43,26 +44,16 @@ Our research addresses a wide range of evolutionary questions... (your paragraph
 
 **Understanding the Theraphosidae & Barychelidae Tree of Life**
 
-
 **Evolution and systematics of the trapdoor spider genus** *Antrodiaetus*
-<figure style="float: left; width: 300px; margin: 0 1.5em 1em 0;">
-  <a href="{{ site.url }}/images/Antrodiaetus_pugnax.jpg"><img src="{{ site.url }}/images/Antrodiaetus_pugnax.jpg" alt="Antrodiaetus pugnax" style="width: 100%; height: auto;"></a>
-</figure>
-
-<div style="clear: both;"></div>
 
 **Evolution and systematics of the mygalomorph spider genus** *Euagrus*
-<br>
 
 **Evolution and systematics of the mygalomorph spider genus** *Hexura*
-<br>
 
 **Evolution and systematics of the mygalomorph spider genus** *Microhexura*
-<br>
 
 **Evolution and systematics of the silk moth genus** *Coloradia*
 <br>
-
 
 
 ### Body Size Evolution
