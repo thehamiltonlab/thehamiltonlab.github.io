@@ -45,7 +45,7 @@ Our research addresses a wide range of evolutionary questions by investigating t
 <figure>
 	<a href="{{ site.url }}/images/Sierra_Aconchi.JPG"><img src="{{ site.url }}/images/Sierra_Aconchi.JPG" alt="image" width="200" height=""> </a>
 </figure>
-{: .pull-right}
+{: .pull-left}
 <br>
 <br>
 <br>
@@ -59,7 +59,7 @@ Our research addresses a wide range of evolutionary questions by investigating t
 	<a href="{{ site.url }}/images/Antrodiaetus_pugnax.jpg"><img src="{{ site.url }}/images/Antrodiaetus_pugnax.jpg" alt="image" width="300" height="231.8"> </a>
 
 </figure>
-{: .pull-right}
+{: .pull-left}
 <br>
 <br>
 
