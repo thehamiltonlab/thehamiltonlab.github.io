@@ -40,6 +40,7 @@ Our research addresses a wide range of evolutionary questions by investigating t
 <div style="display: flex; gap: 1em; justify-content: center; clear: both; margin: 1em 0;">
   <a href="{{ site.url }}/images/Sierra_San_Luis.jpeg"><img src="{{ site.url }}/images/Sierra_San_Luis.jpeg" alt="Sierra San Luis" style="width: 200px; height: auto;"></a>
   <a href="{{ site.url }}/images/Sierra_Aconchi.JPG"><img src="{{ site.url }}/images/Sierra_Aconchi.JPG" alt="Sierra Aconchi" style="width: 200px; height: auto;"></a>
+  <a href="{{ site.url }}/images/Aphonopelma_blue.jpeg"><img src="{{ site.url }}/images/Aphonopelma_blue.jpeg" alt="blue Aphonopelma" style="width: 200px; height: auto;"></a>
 </div>
 
 **Understanding the Theraphosidae & Barychelidae Tree of Life**
