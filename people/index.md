@@ -14,17 +14,17 @@ image:
 
 ### Chris A. Hamilton
 <figure>
-	<a href="{{ site.url }}/images/chris_hamilton_avatar.jpg"><img src="{{ site.url }}/images/chris_hamilton_avatar.jpg" alt="image" width="200" height=""> </a>
+	<a href="{{ site.url }}/images/me_in_Sonora.jpg"><img src="{{ site.url }}/images/me_in_Sonora.jpg" alt="image" width="200" height=""> </a>
 </figure>
 {: .pull-right}
 
-My goal as an advisor is to help students become broadly trained in arthropod systematics and phylogenetics while they develop as independent researchers by learning to identify interesting questions and the approaches necessary to address those questions. As a Native person in academia, I want to be effective in my roles – as a mentor, as a holder of knowledge, and as an educator.
+My goal as an advisor is to help students become broadly trained in arthropod systematics and phylogenetics while they develop as independent researchers by learning to identify interesting questions and the approaches necessary to address those questions. As a Native person in academia, I want to be effective in my roles – as a mentor, a researcher, as a holder of knowledge, and as an educator.
 
 View my [faculty profile](https://www.uidaho.edu/people/hamiltonlab) or [CV]({{ site.url }}/people/Hamilton_CV.pdf)
 
 Past President - Systematics, Evolution, & Biodiversity section of the Entomological Society of America [(SysEB)](https://www.entsoc.org/syseb)
 
-email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu) or Twitter - [@8legs2fangs](https://twitter.com/8legs2fangs)
+email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu), Twitter (X) - [@8legs2fangs](https://twitter.com/8legs2fangs), Instagram [8legs2fangs](https://www.instagram.com/8legs2fangs/)
 
 
 
@@ -38,43 +38,19 @@ email - [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu) or Twitter 
 {: .pull-right}
 Karina is working on understanding the diversity and evolutionary history of the tarantula genus *Aphonopelma* across the Madrean Pine-Oak Woodlands Hotspot (aka - the sky islands of southern Arizona, New Mexico, and northern Mexico). This is Karina holding a mature male *A. catalina*.
 
-Karina comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) at San Diego State University, where she worked on jumping spider research as an undergraduate.
-<br>
-<br>
-<br>
-
-**Erik Ciaccio**
-<figure>
-	<a href="{{ site.url }}/images/Erik.jpg"><img src="{{ site.url }}/images/Erik.jpg" alt="image" width="200" height=""> </a>
-</figure>
-{: .pull-right}
-Erik is working on understanding the species diversity and evolutionary patterns and processes within the trapdoor spider genus *Antrodiaetus*. This is Erik finding his very first *Antrodiaetus*, in the Galiuro Mountains of Arizona!
-
-Erik also comes to us from Marshal Hedin's [lab](https://marshalhedinlab.com) @ SDSU, where he got his Masters working on the spider genus *Hypochilus*. Thank you Marshal!
+Karina came to us from Marshal Hedin's [lab](https://marshalhedinlab.com) at San Diego State University, where she worked on jumping spider research as an undergraduate.
 <br>
 <br>
 <br>
 
 **Arnau Calatayud Mascarell**
 <figure>
-	<a href="{{ site.url }}/images/Arnau.JPG"><img src="{{ site.url }}/images/Arnau.JPG" alt="image" width="200" height=""> </a>
+	<a href="{{ site.url }}/images/Arnau_in_Lab.jpg"><img src="{{ site.url }}/images/Arnau_in_lab.jpg" alt="image" width="200" height=""> </a>
 </figure>
 {: .pull-right}
-Arnau is working on understanding the diversity and evolutionary history of the mygalomorph genus *Euagrus* across the southwestern United States, the Madrean Pine-Oak Woodlands Hotspot (aka - the sky islands of southern Arizona, New Mexico, and northern Mexico), and Mexico.
+Arnau is working on understanding the diversity and evolutionary history of the mygalomorph genera *Euagrus*, *Hexura*, and *Microhexura*. This research occurs across the Pacific Northwest, the American Southwest, and northern Mexico.
 
-Arnau comes to us from Miguel Arnedo's [lab](https://marnedo.net) at the Departament de Biologia Evolutiva, Ecologia i Ciències Ambientals, Fac. Biologia, Universitat de Barcelona, where he worked on mygalomorph spider research for his Masters degree. This is Arnau in the Sahara Desert, in an expedition to Morocco searching for tarantulas.
-<br>
-<br>
-<br>
-
-### Postdoctoral Researcher
-
-**Ethan Briggs**
-<figure>
-	<a href="{{ site.url }}/images/Ethan_lab_photo.jpg"><img src="{{ site.url }}/images/Ethan_lab_photo.jpg" alt="image" width="200" height=""> </a>
-</figure>
-{: .pull-right}
-Ethan comes to us from the Lyn Cook and Cynthia Riginos labs at The University of Queensland Australia, where he worked on the biogeography and systematics of the Australian tarantulas for his PhD. He joined the AMS lab in Fall 2023 and will be working on spider and moth genomics.
+Arnau came to us from Miguel Arnedo's [lab](https://marnedo.net) at the Departament de Biologia Evolutiva, Ecologia i Ciències Ambientals, Fac. Biologia, Universitat de Barcelona, where he worked on mygalomorph spider research for his Masters degree. This is Arnau in the Sahara Desert, in an expedition to Morocco searching for tarantulas.
 <br>
 <br>
 <br>
@@ -93,6 +69,38 @@ Andrea is the glue that holds together the Arthropod Molecular Systematics Lab. 
 <br>
 <br>
 <br>
+
+### Past students
+
+**Dr. Erik Ciaccio**
+<figure>
+	<a href="{{ site.url }}/images/Erik.jpg"><img src="{{ site.url }}/images/Erik.jpg" alt="image" width="200" height=""> </a>
+</figure>
+{: .pull-right}
+Erik worked on understanding the species diversity and evolutionary patterns and processes within the trapdoor spider genus *Antrodiaetus*. This is Erik finding his very first *Antrodiaetus*, in the Galiuro Mountains of Arizona!
+Erik now works for the University of Idaho.
+<br>
+<br>
+<br>
+
+### Past postdoctoral researcher
+
+**Ethan Briggs**
+<figure>
+	<a href="{{ site.url }}/images/Ethan_lab_photo.jpg"><img src="{{ site.url }}/images/Ethan_lab_photo.jpg" alt="image" width="200" height=""> </a>
+</figure>
+{: .pull-right}
+Ethan worked on spider and moth genomics while in the lab.
+He is currently at the Australian Museum where he is continuing his research on the biogeography and systematics of the Australian tarantulas.
+<br>
+<br>
+<br>
+
+### Past visiting researchers
+**Dr. Rafael da Fonseca Ferreira - visiting postdoc, Brazil**
+**Dr. Tiago Belintani - visiting postdoc, Brazil**
+**Dra. Millke J.A. Morales - visiting researcher, Brazil**
+**Maria Tereza Colpani - visiting MS student, Brazil*
 
 
 <figure>
