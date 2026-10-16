@@ -23,7 +23,6 @@ image:
 #### Phone
 <ul style="list-style-type:none">
   <li>Office (Ag Sci 229)</li>
-  <li>208-885-1166</li>
   <li>Arthropod Molecular Systematics Lab (Ag Sci 120 & 124)</li>
 </ul>
 
@@ -36,6 +35,7 @@ image:
 </figure>
 {: .pull-right}
 
+<br>
 <br>
 
 Land Acknowledgement Statement – Moscow Campus: UI Moscow is located on the homelands of the Nimiipu (Nez Perce). We extend gratitude to the indigenous people that call this place home, since time immemorial. UI recognizes that it is our academic responsibility to build relationships with the indigenous people to ensure integrity of tribal voices. Words are meaningless without action.
