@@ -85,7 +85,7 @@ Erik now works for the University of Idaho.
 
 ### Past postdoctoral researcher
 
-**Ethan Briggs**
+**Dr. Ethan Briggs**
 <figure>
 	<a href="{{ site.url }}/images/Ethan_lab_photo.jpg"><img src="{{ site.url }}/images/Ethan_lab_photo.jpg" alt="image" width="200" height=""> </a>
 </figure>
