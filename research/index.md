@@ -58,30 +58,24 @@ Our research addresses a wide range of evolutionary questions by investigating t
 
 ### Body Size Evolution
 
-<figure>
-
-	<a href="{{ site.url }}/images/anax_paloma_size.jpg"><img src="{{ site.url }}/images/anax_paloma_size.jpg" alt="image" width="300" height="231.8"> </a>
-
+<figure style="float: right; width: 300px; margin: 0 0 1em 1.5em;">
+  <a href="{{ site.url }}/images/anax_paloma_size.jpg"><img src="{{ site.url }}/images/anax_paloma_size.jpg" alt="Anax and Paloma body size comparison" style="width: 100%; height: auto;"></a>
 </figure>
-{: .pull-right}
 
 Body size is one of the most important determinants of an organism’s ecological role (Hanken and Wake 1993). Because it is correlated with physiological and fitness characters, body size has been one of the most important traits evolutionary biologists have investigated. My research explores three major stories of dramatic changes in body size:  1) Miniaturization in sympatric lineages of Aphonopelma tarantulas; 2) Sexual size dimorphism in the golden orb-weaving spiders (Nephilidae); and 3) The evolution of large body sizes as an anti-bat trait in the evolutionary “arms race” between bats and moths. Future work will utilize phylogenetics, morphometrics, and comparative genomics (de novo genome sequencing and transcriptomics) to investigate the evolutionary path of these traits, as well as the putative mechanisms and the genome regions that have provided for these changes.
-<br>
 
+<div style="clear: both;"></div>
 
 
 ### Effects of Climate Change on Pest Distribution Expansion
 
-<figure>
-
-	<a href="{{ site.url }}/images/Pandora_outbreak.JPG"><img src="{{ site.url }}/images/Pandora_outbreak.JPG" alt="image" width="300" height=""> </a>
-
+<figure style="float: right; width: 300px; margin: 0 0 1em 1.5em;">
+  <a href="{{ site.url }}/images/Pandora_outbreak.JPG"><img src="{{ site.url }}/images/Pandora_outbreak.JPG" alt="Pandora pine moth outbreak" style="width: 100%; height: auto;"></a>
 </figure>
-{: .pull-right}
 
 Adapting to changing climate is a fundamental challenge for life on Earth. Distributions change as organisms are forced to search for hospitable habitat, either retracting from areas no longer favorable or expanding into new areas with more suitable environmental conditions. Oftentimes, these changes result in taxa having a novel presence in a given area. This novelty brings with it the potential for unchecked population outbreaks due to a lack of pre-existing predators or other balancing effects that normally prevent serious environmental or economic impacts from occurring in the organism’s historical range. To gain a better evolutionary understanding of the genomic and phenotypic links of this phenomenon and its relation to climate change, we are focusing on a widespread species in the Western United States, the Pandora Pine Moth (*Coloradia pandora*), a species with unpredictable population outbreaks that is already expanding into novel areas, where it feeds on several pine (*Pinus* spp.) species, in particular the economically significant lodgepole, Jeffrey, and ponderosa pines.
-<br>
 
+<div style="clear: both;"></div>
 
 
 ### Outreach
@@ -102,10 +96,6 @@ Here in Idaho, I work with the tribes to provide opportunities for the next gene
 
 <br>
 
-<figure>
-
-	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="100"> </a>
-
-</figure>
 <figure style="text-align: center;">
-
+  <a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="Hamilton Lab logo" style="width: 100px; height: auto;"></a>
+</figure>
