@@ -47,8 +47,10 @@ Our research addresses a wide range of evolutionary questions by investigating t
 </figure>
 {: .pull-right}
 <br>
+<br>
+<br>
 
-**Understanding the Theraphosidae & Barychelidae Tree of Life***
+**Understanding the Theraphosidae & Barychelidae Tree of Life**
 <br>
 
 **Evolution and systematics of the trapdoor spider genus** *Antrodiaetus*
