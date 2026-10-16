@@ -20,7 +20,7 @@ image:
 
 My goal as an advisor is to help students become broadly trained in arthropod systematics and phylogenetics while they develop as independent researchers by learning to identify interesting questions and the approaches necessary to address those questions. As a Native person in academia, I want to be effective in my roles – as a mentor, a researcher, as a holder of knowledge, and as an educator.
 
-View my [faculty profile](https://www.uidaho.edu/people/hamiltonlab) or [CV]({{ site.url }}/people/Hamilton_CV.pdf)
+View my [faculty profile](https://www.uidaho.edu/people/hamiltonlab)
 
 Past President - Systematics, Evolution, & Biodiversity section of the Entomological Society of America [(SysEB)](https://www.entsoc.org/syseb)
 
