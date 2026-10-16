@@ -100,10 +100,14 @@ He is currently at the Australian Museum where he is continuing his research on 
 <br>
 
 ### Past visiting researchers
-**Dr. Rafael da Fonseca Ferreira - visiting postdoc, Brazil**
-**Dr. Tiago Belintani - visiting postdoc, Brazil**
-**Dra. Millke J.A. Morales - visiting researcher, Brazil**
-**Maria Tereza Colpani - visiting MS student, Brazil*
+**Dr. Rafael da Fonseca Ferreira** - visiting postdoc, Brazil
+<br>
+**Dr. Tiago Belintan**i - visiting postdoc, Brazil
+<br>
+**Dra. Millke J.A. Morales** - visiting researcher, Brazil
+<br>
+**Maria Tereza Colpani - visiting** MS student, Brazil
+<br>
 
 
 <figure>
