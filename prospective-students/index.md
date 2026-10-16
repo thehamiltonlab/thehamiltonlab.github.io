@@ -44,10 +44,7 @@ There are numerous possibilities for small projects in the lab and I encourage i
 
 <br>
 
-<figure>
-
-	<a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="image" width="100"> </a>
-
+<figure style="text-align: center;">
+  <a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="Hamilton Lab logo" style="width: 100px; height: auto;"></a>
 </figure>
-{: .center}
 
