@@ -7,7 +7,7 @@ image:
   feature: sphingid.jpg
 ---
 
-**My lab (the Arthropod Molecular Systematics Lab) wants to build a diverse and interactive lab group interested in phylogenies and their applications in understanding the evolution of spider and moth biodiversity.**
+**My lab (the Arthropod Molecular Systematics Lab) wants to build a diverse and interactive lab group interested in phylogenies and genomics, and their applications in understanding the evolution of spider and moth biodiversity.**
 
 *We are a safe space for people of all races, genders, sexual orientations, and abilities.*
 <br>
@@ -20,7 +20,7 @@ Students will obtain research experience in a molecular laboratory, field work u
 
 Student projects can be tied into ongoing research or developed according to mutual interests.
 
-To learn more about the incredible community of evolutionary biologists at the University of Idaho, check out the [*Department of Entomology, Plant Pathology & Nematology*](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology), the [*Department of Biological Sciences*](http://www.uidaho.edu/sci/biology), and the [*Bioinformatics and Computational Biology Program*](http://www.uidaho.edu/cogs/bcb).
+To learn more about the incredible community of evolutionary biologists at the University of Idaho, check out the [*Department of Entomology, Plant Pathology & Nematology*](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology), the [*Department of Biological Sciences*](http://www.uidaho.edu/sci/biology), and the [*Bioinformatics and Computational Biology Program*](https://www.uidaho.edu/science/academics/bioinformatics-computational-biology).
 
 
 #### interested?
