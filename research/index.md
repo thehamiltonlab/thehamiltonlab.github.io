@@ -28,40 +28,28 @@ Understanding how Earth's diversity has been shaped by evolution is one of the k
 <br>
 
 ### Systematics
-<figure>
-
-	<a href="{{ site.url }}/images/mygalomorph_phylo.jpg"><img src="{{ site.url }}/images/mygalomorph_phylo.jpg" alt="image" width="238.4" height="350"> </a>
-
+<figure style="float: right; width: 238px; margin: 0 0 1em 1.5em;">
+  <a href="{{ site.url }}/images/mygalomorph_phylo.jpg"><img src="{{ site.url }}/images/mygalomorph_phylo.jpg" alt="Mygalomorph phylogeny" style="width: 100%; height: auto;"></a>
 </figure>
-{: .pull-right}
-Our research addresses a wide range of evolutionary questions by investigating the history of the Araneae (from alpha and beta taxonomy to macroevolutionary dynamics to species delimitation), with a focus predominantly on the Mygalomorphae, and in particular the Theraphosidae (tarantulas). We also work on Lepidoptera, predominantly the superfamily Bombycoidea, and in particular the Saturniidae (silkmoths).
 
-*Evolution and systematics of* **Aphonopelma** - *Aphonopelma* is a group where traditional morphological characters were generally ineffective at evaluating inter- and intraspecific variation, with the genus declared “one of the greatest known challenges to species delimitation in spiders”. The principal goal of this research was and is to formally resolve the species-level diversity by using an integrative approach that combined phylogenomics with morphological, geographic, and behavioral data to define species boundaries.
-<figure>
-	<a href="{{ site.url }}/images/Sierra_San_Luis.jpeg"><img src="{{ site.url }}/images/Sierra_San_Luis.jpeg" alt="image" width="200" height="300.2"> </a>
-</figure>
-{: .pull-right}
-<br>
-<figure>
-	<a href="{{ site.url }}/images/Sierra_Aconchi.JPG"><img src="{{ site.url }}/images/Sierra_Aconchi.JPG" alt="image" width="200" height=""> </a>
-</figure>
-{: .pull-left}
-<br>
-<br>
-<br>
+Our research addresses a wide range of evolutionary questions... (your paragraphs)
+
+*Evolution and systematics of* **Aphonopelma** - ... (your paragraph)
+
+<div style="display: flex; gap: 1em; justify-content: center; clear: both; margin: 1em 0;">
+  <a href="{{ site.url }}/images/Sierra_San_Luis.jpeg"><img src="{{ site.url }}/images/Sierra_San_Luis.jpeg" alt="Sierra San Luis" style="width: 200px; height: auto;"></a>
+  <a href="{{ site.url }}/images/Sierra_Aconchi.JPG"><img src="{{ site.url }}/images/Sierra_Aconchi.JPG" alt="Sierra Aconchi" style="width: 200px; height: auto;"></a>
+</div>
 
 **Understanding the Theraphosidae & Barychelidae Tree of Life**
-<br>
+
 
 **Evolution and systematics of the trapdoor spider genus** *Antrodiaetus*
-<figure>
-
-	<a href="{{ site.url }}/images/Antrodiaetus_pugnax.jpg"><img src="{{ site.url }}/images/Antrodiaetus_pugnax.jpg" alt="image" width="300" height="231.8"> </a>
-
+<figure style="float: left; width: 300px; margin: 0 1.5em 1em 0;">
+  <a href="{{ site.url }}/images/Antrodiaetus_pugnax.jpg"><img src="{{ site.url }}/images/Antrodiaetus_pugnax.jpg" alt="Antrodiaetus pugnax" style="width: 100%; height: auto;"></a>
 </figure>
-{: .pull-left}
-<br>
-<br>
+
+<div style="clear: both;"></div>
 
 **Evolution and systematics of the mygalomorph spider genus** *Euagrus*
 <br>
