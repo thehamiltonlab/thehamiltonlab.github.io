@@ -37,7 +37,6 @@ Understanding how Earth's diversity has been shaped by evolution is one of the k
 Our research addresses a wide range of evolutionary questions by investigating the history of the Araneae (from alpha and beta taxonomy to macroevolutionary dynamics to species delimitation), with a focus predominantly on the Mygalomorphae, and in particular the Theraphosidae (tarantulas). We also work on Lepidoptera, predominantly the superfamily Bombycoidea, and in particular the Saturniidae (silkmoths).
 
 *Evolution and systematics of* **Aphonopelma** - *Aphonopelma* is a group where traditional morphological characters were generally ineffective at evaluating inter- and intraspecific variation, with the genus declared “one of the greatest known challenges to species delimitation in spiders”. The principal goal of this research was and is to formally resolve the species-level diversity by using an integrative approach that combined phylogenomics with morphological, geographic, and behavioral data to define species boundaries.
-
 <figure>
 	<a href="{{ site.url }}/images/Sierra_San_Luis.jpeg"><img src="{{ site.url }}/images/Sierra_San_Luis.jpeg" alt="image" width="200" height="300.2"> </a>
 </figure>
@@ -49,8 +48,10 @@ Our research addresses a wide range of evolutionary questions by investigating t
 {: .pull-right}
 <br>
 
-*Understanding the Theraphosidae & Barychelidae Tree of Life*
+**Understanding the Theraphosidae & Barychelidae Tree of Life***
+<br>
 
+**Evolution and systematics of the trapdoor spider genus** *Antrodiaetus*
 <figure>
 
 	<a href="{{ site.url }}/images/Antrodiaetus_pugnax.jpg"><img src="{{ site.url }}/images/Antrodiaetus_pugnax.jpg" alt="image" width="300" height="231.8"> </a>
@@ -58,20 +59,18 @@ Our research addresses a wide range of evolutionary questions by investigating t
 </figure>
 {: .pull-right}
 <br>
-
-*Evolution and systematics of the trapdoor spider genus* **Antrodiaetus**
 <br>
 
-*Evolution and systematics of the mygalomorph spider genus** **Euagrus**
+**Evolution and systematics of the mygalomorph spider genus** *Euagrus*
 <br>
 
-*Evolution and systematics of the mygalomorph spider genus** **Hexura**
+**Evolution and systematics of the mygalomorph spider genus** *Hexura*
 <br>
 
-*Evolution and systematics of the mygalomorph spider genus** **Microhexura**
+**Evolution and systematics of the mygalomorph spider genus** *Microhexura*
 <br>
 
-*Evolution and systematics of the silk moth genus* **Coloradia**
+**Evolution and systematics of the silk moth genus** *Coloradia*
 <br>
 
 
