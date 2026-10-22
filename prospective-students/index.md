@@ -23,7 +23,7 @@ Student projects can be tied into ongoing research or developed according to mut
 To learn more about the incredible community of evolutionary biologists at the University of Idaho, check out the [*Department of Entomology, Plant Pathology & Nematology*](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology), the [*Department of Biological Sciences*](http://www.uidaho.edu/sci/biology), and the [*Bioinformatics and Computational Biology Program*](https://www.uidaho.edu/science/academics/bioinformatics-computational-biology).
 
 
-#### Interested?
+### Interested?
 
 Contact me by email [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu?subject=Prospective%20graduate%20student) prior to applying.
 
