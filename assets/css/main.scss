@@ -11,6 +11,11 @@ sitemap: false
  *
 */
 
+/* Fallback for devices without Avenir (Windows, Android, Linux).
+   Nunito Sans is a free, close match with the same weight range.
+   Plain CSS imports must come first in the file. */
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;500;800;900&display=swap");
+
 @import "variables";
 
 /*
@@ -53,3 +58,299 @@ sitemap: false
 
 @import "page"; /* layout and styles that apply to posts and pages */
 @import "archives"; /* archive pages (post/tag lists, etc) */
+
+/* ==========================================================================
+   Custom overrides (everything below loads after the theme, so it wins)
+   ========================================================================== */
+
+/* ==========================================================================
+   Typography: Avenir, one family, five weights
+   Light 300 .... lede, quotes, captions
+   Book 400 ..... body text
+   Medium 500 ... navigation, link tiles, figure captions
+   Heavy 800 .... section headings
+   Black 900 .... page title
+   ========================================================================== */
+
+$avenir: "Avenir Next", "Avenir", "Nunito Sans", "Segoe UI", Helvetica, Arial, sans-serif;
+
+html,
+body,
+button,
+input,
+select,
+textarea {
+  font-family: $avenir;
+}
+
+body {
+  font-weight: 400;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $avenir;
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+}
+
+.page-title,
+h1 {
+  font-weight: 900;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  margin-top: 2.5em;
+  font-size: 1.6em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+/* Navigation, masthead, footer */
+.masthead a,
+.site-nav a,
+.footer a,
+nav a {
+  font-family: $avenir;
+  font-weight: 500;
+}
+
+.page-excerpt,
+.page-lead {
+  font-weight: 300;
+}
+
+/* ==========================================================================
+   Page content
+   ========================================================================== */
+
+/* Keep reading lines comfortable (roughly 65 characters) */
+.page-content p,
+.page-content ul,
+.page-content ol {
+  max-width: 42em;
+}
+
+/* Greeting at the top of the homepage */
+.lede {
+  max-width: 42em;
+  margin: 0 0 1.5em;
+  font-size: 1.5em;
+  font-weight: 300;
+  line-height: 1.4;
+}
+
+/* Darwin epigraph */
+blockquote.epigraph {
+  max-width: 42em;
+  margin: 2em 0;
+  padding: 0 0 0 1.25em;
+  border-left: 3px solid currentColor;
+  font-size: 1.05em;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 1.6;
+
+  p {
+    margin: 0 0 0.75em;
+  }
+
+  cite {
+    display: block;
+    font-size: 0.85em;
+    font-style: normal;
+    font-weight: 500;
+    opacity: 0.75;
+  }
+}
+
+/* Links to Research / People / Prospective students */
+.home-links {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;
+  margin: 2.5em 0;
+  border-top: 1px solid rgba(128, 128, 128, 0.4);
+  border-bottom: 1px solid rgba(128, 128, 128, 0.4);
+
+  a {
+    display: block;
+    padding: 1.25em 1.25em 1.25em 0;
+    text-decoration: none;
+
+    & + a {
+      padding-left: 1.25em;
+      border-left: 1px solid rgba(128, 128, 128, 0.4);
+    }
+
+    strong {
+      display: block;
+      font-size: 1.15em;
+      font-weight: 800;
+    }
+
+    span {
+      display: block;
+      margin-top: 0.25em;
+      font-size: 0.9em;
+      font-weight: 400;
+      opacity: 0.8;
+    }
+
+    &:hover strong,
+    &:focus strong {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Video */
+.lab-video {
+  margin: 1em 0 2em;
+
+  video {
+    display: block;
+    width: 100%;
+    max-width: 720px;
+    height: auto;
+  }
+
+  figcaption {
+    margin-top: 0.5em;
+    font-size: 0.9em;
+    font-weight: 300;
+    opacity: 0.8;
+  }
+}
+
+/* ==========================================================================
+   People page: replaces the <figure> + {: .pull-right} + <br><br><br> pattern
+   ========================================================================== */
+
+.person {
+  display: flow-root; /* contains the floated photo, so no <br> spacers are needed */
+  margin: 0 0 2.5em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.3);
+
+  img {
+    float: right;
+    width: 200px;
+    height: 200px;
+    margin: 0 0 1em 1.5em;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+}
+
+.person h3 {
+  margin: 0 0 0.5em;
+  font-size: 1.25em;
+}
+
+/* ==========================================================================
+   Research page: topic sections, floated figures, photo rows
+   ========================================================================== */
+
+.research-topic {
+  display: flow-root; /* contains floated figures, so no clear divs are needed */
+}
+
+.fig-right {
+  float: right;
+  width: 300px;
+  margin: 0 0 1em 1.5em;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+
+.photo-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1em;
+  margin: 1.5em 0;
+
+  img {
+    display: block;
+    width: 200px;
+    height: auto;
+  }
+}
+
+/* ==========================================================================
+   Contact page
+   ========================================================================== */
+
+address {
+  font-style: normal;
+  line-height: 1.7;
+}
+
+.contact-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5em 2.5em;
+  margin: 2em 0;
+
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.land-ack {
+  max-width: 42em;
+  margin-top: 1em;
+  padding-left: 1.25em;
+  border-left: 3px solid currentColor;
+  font-weight: 300;
+}
+
+/* ==========================================================================
+   Small screens
+   ========================================================================== */
+
+@media (max-width: 640px) {
+  .home-links {
+    grid-template-columns: 1fr;
+
+    a,
+    a + a {
+      padding: 1em 0;
+      border-left: 0;
+    }
+
+    a + a {
+      border-top: 1px solid rgba(128, 128, 128, 0.4);
+    }
+  }
+
+  .person img {
+    float: none;
+    display: block;
+    margin: 0 auto 1em;
+  }
+
+  .fig-right {
+    float: none;
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto 1em;
+  }
+
+  .lede {
+    font-size: 1.25em;
+  }
+}

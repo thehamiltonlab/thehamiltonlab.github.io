@@ -2,45 +2,34 @@
 layout: page
 title: Contact
 excerpt: "Contact"
-modified: 
 image:
   feature: Linyphiidae_sp_male.jpg
 ---
 
-#### Mailing Address
-<figure>
-	<a href="{{ site.url }}/images/UIdaho2.png"><img src="{{ site.url }}/images/UIdaho2.png" alt="image" style="float:left" width="125" ></a>
-</figure>
-{: .pull-right}
-<ul style="list-style-type:none">
-  <li>Department of Entomology, Plant Pathology & Nematology</li>
-  <li>University of Idaho</li>
-  <li>875 Perimeter Dr. MS 2329</li>
-  <li>Moscow, ID 83844-2329</li>
-</ul>
+## Mailing address
 
+<address>
+Department of Entomology, Plant Pathology & Nematology<br>
+University of Idaho<br>
+875 Perimeter Dr. MS 2329<br>
+Moscow, ID 83844-2329
+</address>
 
-#### Phone
-<ul style="list-style-type:none">
-  <li>Office (Ag Sci 229)</li>
-  <li>Arthropod Molecular Systematics Lab (Ag Sci 120 & 124)</li>
-</ul>
+## Phone
 
+- Office (Ag Sci 229)
+- Arthropod Molecular Systematics Lab (Ag Sci 120 & 124)
 
-#### Email
+## Email
+
 [hamiltonlab [at] uidaho.edu](mailto:hamiltonlab@uidaho.edu)
 
-<figure>
-	<a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="image" style="float:right" width="200" ></a>
-</figure>
-{: .pull-right}
+<div class="contact-logos">
+  <a href="{{ site.url }}/images/UIdaho2.png"><img src="{{ site.url }}/images/UIdaho2.png" alt="University of Idaho" width="125"></a>
+  <a href="{{ site.url }}/images/UICALS.jpg"><img src="{{ site.url }}/images/UICALS.jpg" alt="University of Idaho College of Agricultural and Life Sciences" width="200"></a>
+</div>
 
-<br>
-<br>
+## Land acknowledgement – Moscow campus
 
-Land Acknowledgement Statement – Moscow Campus: UI Moscow is located on the homelands of the Nimiipu (Nez Perce). We extend gratitude to the indigenous people that call this place home, since time immemorial. UI recognizes that it is our academic responsibility to build relationships with the indigenous people to ensure integrity of tribal voices. Words are meaningless without action.
-
-<figure style="text-align: center;">
-  <a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="Hamilton Lab logo" style="width: 100px; height: auto;"></a>
-</figure>
-
+UI Moscow is located on the homelands of the Nimiipu (Nez Perce). We extend gratitude to the indigenous people that call this place home, since time immemorial. UI recognizes that it is our academic responsibility to build relationships with the indigenous people to ensure integrity of tribal voices. Words are meaningless without action.
+{: .land-ack}

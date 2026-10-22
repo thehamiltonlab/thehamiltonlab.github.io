@@ -2,39 +2,59 @@
 layout: page
 title: The Hamilton Lab
 excerpt: "the Arthropod Molecular Systematics Lab at the University of Idaho"
-modified: 
 image:
   feature: taxa_sample.jpg
 ---
-**"There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been and are being, evolved."**
 
-*- Charles Darwin, 1859, "On the Origin of Species by means of Natural Selection"*
-<br>
-<br>
-
-# Arthropod Systematics & Phylogenetics
-
+<p class="lede" markdown="1">
 Chokma! Saholhchifoat Chris Hamilton. Chikashsha saya.
+</p>
 
-The Hamilton Lab is in the [*Department of Entomology, Plant Pathology & Nematology*](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology) at the [*University of Idaho*](http://www.uidaho.edu). Our lab, and the University of Idaho, lives and works on the unceded homeland of the Nimi’ipuu (Nez Perce), Schitsu’umsh (Coeur d’Alene), Kalispel, Kootenai, Paiute, and Shoshone-Bannock peoples.
+> “There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been and are being, evolved.”
+>
+> <cite>Charles Darwin, 1859, *On the Origin of Species by means of Natural Selection*</cite>
+{: .epigraph}
 
-I consider myself a biodiversity researcher. That means I'm an evolutionary biologist who works to understand the organismal diversity on our planet by finding and describing new species, as well as understanding their evolutionary relationships. I'm an arachnologist, lepidopterist, treethinker, Chickasaw, Arsenal nut, hockey beer-leaguer, and dad. Driven by a passion to tell stories of our planet, my journey to biology came through photojournalism (my previous career before coming back to school). My experiences documenting the stories of diverse cultures and contexts complement my love of understanding the biological world around us. For me, biology is a tool to continue telling stories about ourselves and our planet. As a Native in academia, I want to blend the ways we tell stories by incorporating both TEK (Traditional Ecological Knowledge) approaches and western science. Combining the cultural and physical worlds is a natural transition, as our people are the original “natural historians”. We understood the land, it is flora and fauna, and the interactions of these organisms, long before western science “discovered” them.
+## Arthropod Systematics & Phylogenetics
 
-As the Arthropod Molecular Systematics lab at the University of Idaho, our research takes a modern systematics approach to establish hypotheses about the generation and maintenance of biodiversity. By integrating large amounts of genomic, morphometric, ecological, and behavioral data, we try to explain patterns across differing landscapes and time, as well as how biotic and abiotic factors have influenced spider and moth diversification.
+The Hamilton Lab is in the [*Department of Entomology, Plant Pathology & Nematology*](https://www.uidaho.edu/cals/entomology-plant-pathology-and-nematology) at the [*University of Idaho*](https://www.uidaho.edu). Our lab, and the University of Idaho, lives and works on the unceded homeland of the Nimi’ipuu (Nez Perce), Schitsu’umsh (Coeur d’Alene), Kalispel, Kootenai, Paiute, and Shoshone-Bannock peoples.
 
-As a member of the Chickasaw Nation of Oklahoma, I have a personal investment to engage and mentor fellow Native students. These Tribal Nations are sovereign, legal, and political entities with their own powers of self-governance and self-determination. Because of this, one of my main goals is to work with the tribes to provide opportunities for the next generation to access and develop the skills and knowledge they deem necessary for strengthening Tribal sovereignty and self-determination.
+As the Arthropod Molecular Systematics lab, our research takes a modern systematics approach to establish hypotheses about the generation and maintenance of biodiversity. By integrating large amounts of genomic, morphometric, ecological, and behavioral data, we try to explain patterns across differing landscapes and time, as well as how biotic and abiotic factors have influenced spider and moth diversification.
 
-Check out the [**research**]({{ site.url }}/research) page to learn more about how we use phylogenies and genomes to address evolutionary questions in spiders and moths.
+<nav class="home-links" aria-label="Lab pages" markdown="0">
+  <a href="{{ site.url }}/research/">
+    <strong>Research</strong>
+    <span>Phylogenies and genomes of spiders and moths</span>
+  </a>
+  <a href="{{ site.url }}/people/">
+    <strong>People</strong>
+    <span>Current members and lab alumni</span>
+  </a>
+  <a href="{{ site.url }}/prospective-students/">
+    <strong>Prospective students</strong>
+    <span>Join the lab</span>
+  </a>
+</nav>
 
-<figure>
+## About Chris
 
-	<a href="{{ site.url }}/images/specimen_processing.mov"><img src="{{ site.url }}/images/specimen_processing.mov" alt="video" width="600" height=""> </a>
+I consider myself a biodiversity researcher. That means I’m an evolutionary biologist who works to understand the organismal diversity on our planet by finding and describing new species, as well as understanding their evolutionary relationships. I’m an arachnologist, lepidopterist, treethinker, Chickasaw, Arsenal nut, hockey beer-leaguer, and dad.
 
+Driven by a passion to tell stories of our planet, my journey to biology came through photojournalism (my previous career before coming back to school). My experiences documenting the stories of diverse cultures and contexts complement my love of understanding the biological world around us. For me, biology is a tool to continue telling stories about ourselves and our planet.
+
+As a Native person in academia, I want to blend the ways we tell stories by incorporating both TEK (Traditional Ecological Knowledge) approaches and western science. Combining the cultural and physical worlds is a natural transition, as our people are the original “natural historians”. We understood the land, its flora and fauna, and the interactions of these organisms, long before western science “discovered” them.
+
+## Mentoring Native students
+
+As a member of the Chickasaw Nation of Oklahoma, I have a personal investment to engage and mentor fellow Native students. Tribal Nations are sovereign, legal, and political entities with their own powers of self-governance and self-determination. Because of this, one of my main goals is to work with the tribes to provide opportunities for the next generation to access and develop the skills and knowledge they deem necessary for strengthening Tribal sovereignty and self-determination.
+
+## In the lab
+
+<figure class="lab-video">
+  <video controls playsinline preload="metadata" width="720">
+    <source src="{{ site.url }}/images/specimen_processing.mp4" type="video/mp4">
+    <source src="{{ site.url }}/images/specimen_processing.mov" type="video/quicktime">
+    Your browser can’t play this video. <a href="{{ site.url }}/images/specimen_processing.mov">Download it instead.</a>
+  </video>
+  <figcaption>Processing specimens in the lab.</figcaption>
 </figure>
-
-<br>
-
-<figure style="text-align: center;">
-  <a href="{{ site.url }}/images/chris-hamilton_onwhite.png"><img src="{{ site.url }}/images/chris-hamilton_onwhite.png" alt="Hamilton Lab logo" style="width: 100px; height: auto;"></a>
-</figure>
-
