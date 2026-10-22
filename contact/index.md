@@ -15,7 +15,7 @@ University of Idaho<br>
 Moscow, ID 83844-2329
 </address>
 
-## Phone
+## Office and Lab
 
 - Office (Ag Sci 229)
 - Arthropod Molecular Systematics Lab (Ag Sci 120 & 124)
