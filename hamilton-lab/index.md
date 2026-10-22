@@ -24,7 +24,7 @@ As the Arthropod Molecular Systematics lab, our research takes a modern systemat
 <nav class="home-links" aria-label="Lab pages" markdown="0">
   <a href="{{ site.url }}/research/">
     <strong>Research</strong>
-    <span>Phylogenies and genomes of spiders and moths</span>
+    <span>Systematics and genomics of spiders and moths</span>
   </a>
   <a href="{{ site.url }}/people/">
     <strong>People</strong>
@@ -36,25 +36,23 @@ As the Arthropod Molecular Systematics lab, our research takes a modern systemat
   </a>
 </nav>
 
-## About Chris
+## About the PI
 
-I consider myself a biodiversity researcher. That means I’m an evolutionary biologist who works to understand the organismal diversity on our planet by finding and describing new species, as well as understanding their evolutionary relationships. I’m an arachnologist, lepidopterist, treethinker, Chickasaw, Arsenal nut, hockey beer-leaguer, and dad.
+I consider myself a biodiversity researcher. That means I’m an evolutionary biologist who works to understand the organismal diversity on our planet by finding and describing new species, as well as understanding their evolutionary relationships. I’m an arachnologist, lepidopterist, treethinker, Chickasaw, Arsenal nut, hockey beer-leaguer, coach, and dad.
 
-Driven by a passion to tell stories of our planet, my journey to biology came through photojournalism (my previous career before coming back to school). My experiences documenting the stories of diverse cultures and contexts complement my love of understanding the biological world around us. For me, biology is a tool to continue telling stories about ourselves and our planet.
+Driven by a passion to tell stories of our planet, my journey to biology came through photojournalism (my previous career before coming back to school). My experiences documenting the stories of diverse cultures complement my love of understanding the biological world around us. For me, biology is a tool to continue telling stories about ourselves and our planet.
 
-As a Native person in academia, I want to blend the ways we tell stories by incorporating both TEK (Traditional Ecological Knowledge) approaches and western science. Combining the cultural and physical worlds is a natural transition, as our people are the original “natural historians”. We understood the land, its flora and fauna, and the interactions of these organisms, long before western science “discovered” them.
+As a Native person in academia, I want to blend the ways we tell stories by incorporating both TEK (Traditional Ecological Knowledge) approaches and western science, when possible and appropriate. Combining the cultural and physical worlds is a natural transition, as our people are the original “natural historians”. We understood the land, its flora and fauna, and the interactions of these organisms, long before western science “discovered” them.
 
 ## Mentoring Native students
 
 As a member of the Chickasaw Nation of Oklahoma, I have a personal investment to engage and mentor fellow Native students. Tribal Nations are sovereign, legal, and political entities with their own powers of self-governance and self-determination. Because of this, one of my main goals is to work with the tribes to provide opportunities for the next generation to access and develop the skills and knowledge they deem necessary for strengthening Tribal sovereignty and self-determination.
 
-## In the lab
+## 
 
 <figure class="lab-video">
-  <video controls playsinline preload="metadata" width="720">
+  <video autoplay muted loop playsinline preload="metadata" width="720">
     <source src="{{ site.url }}/images/specimen_processing.mp4" type="video/mp4">
-    <source src="{{ site.url }}/images/specimen_processing.mov" type="video/quicktime">
-    Your browser can’t play this video. <a href="{{ site.url }}/images/specimen_processing.mov">Download it instead.</a>
   </video>
-  <figcaption>Processing specimens in the lab.</figcaption>
+  <figcaption>Processing specimens.</figcaption>
 </figure>

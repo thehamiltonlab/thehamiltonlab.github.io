@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Welcome to the Hamilton Lab
+title: The Arthropod Molecular Systematics Lab at the University of Idaho
 locale: en_US
 description: The Arthropod Molecular Systematics Lab at the University of Idaho
 logo: chris-hamilton_onblack.png
@@ -41,7 +41,7 @@ owner:
   github: thehamiltonlab
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: 8legsfangs
   flickr: #username
   tumblr: #username
   pinterest: #username
