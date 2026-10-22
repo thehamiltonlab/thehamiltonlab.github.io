@@ -16,7 +16,7 @@ image:
 <div class="person" markdown="1">
 <a href="{{ site.url }}/images/me_in_Sonora.jpg"><img src="{{ site.url }}/images/me_in_Sonora.jpg" alt="Chris Hamilton in Sonora"></a>
 
-### Chris A. Hamilton
+### Dr. Chris A. Hamilton
 
 My goal as an advisor is to help students become broadly trained in arthropod systematics and phylogenetics while they develop as independent researchers by learning to identify interesting questions and the approaches necessary to address those questions. As a Native person in academia, I want to be effective in my roles – as a mentor, a researcher, as a holder of knowledge, and as an educator.
 
@@ -35,9 +35,11 @@ Past President, Systematics, Evolution, & Biodiversity section of the Entomologi
 
 ### Karina Silvestre Bringas
 
-Karina is working on understanding the diversity and evolutionary history of the tarantula genus *Aphonopelma* across the Madrean Pine-Oak Woodlands Hotspot (aka - the sky islands of southern Arizona, New Mexico, and northern Mexico). This is Karina holding a mature male *A. catalina*.
+Karina is working on understanding the diversity and evolutionary history of the tarantula genus *Aphonopelma* across the Madrean Pine-Oak Woodlands Hotspot (aka - the sky islands of southern Arizona, New Mexico, and northern Mexico).
 
 Karina came to us from Marshal Hedin’s [lab](https://marshalhedinlab.com) at San Diego State University, where she worked on jumping spider research as an undergraduate.
+
+This is Karina holding a mature male *A. catalina*.
 </div>
 
 <div class="person" markdown="1">
@@ -47,7 +49,9 @@ Karina came to us from Marshal Hedin’s [lab](https://marshalhedinlab.com) at S
 
 Arnau is working on understanding the diversity and evolutionary history of the mygalomorph genera *Euagrus*, *Hexura*, and *Microhexura*. This research occurs across the Pacific Northwest, the American Southwest, and northern Mexico.
 
-Arnau came to us from Miguel Arnedo’s [lab](https://marnedo.net) at the Departament de Biologia Evolutiva, Ecologia i Ciències Ambientals, Fac. Biologia, Universitat de Barcelona, where he worked on mygalomorph spider research for his Masters degree. This is Arnau in the Sahara Desert, in an expedition to Morocco searching for tarantulas.
+Arnau came to us from Miguel Arnedo’s [lab](https://marnedo.net) at the Departament de Biologia Evolutiva, Ecologia i Ciències Ambientals, Fac. Biologia, Universitat de Barcelona, where he worked on mygalomorph spider research for his Masters degree.
+
+This is Arnau looking at specimens of *Hexura vandal**, a species we described in honor of the university and residents of the great state of Idaho.
 </div>
 
 ## Lab manager

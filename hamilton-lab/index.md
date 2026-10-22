@@ -48,7 +48,7 @@ As a Native person in academia, I want to blend the ways we tell stories by inco
 
 As a member of the Chickasaw Nation of Oklahoma, I have a personal investment to engage and mentor fellow Native students. Tribal Nations are sovereign, legal, and political entities with their own powers of self-governance and self-determination. Because of this, one of my main goals is to work with the tribes to provide opportunities for the next generation to access and develop the skills and knowledge they deem necessary for strengthening Tribal sovereignty and self-determination.
 
-## 
+
 
 <figure class="lab-video">
   <video autoplay muted loop playsinline preload="metadata" width="720">
