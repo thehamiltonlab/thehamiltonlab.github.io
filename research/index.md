@@ -71,7 +71,7 @@ Body size is one of the most important determinants of an organism’s ecologica
 2. Sexual size dimorphism in the golden orb-weaving spiders (Nephilidae)
 3. The evolution of large body sizes as an anti-bat trait in the evolutionary “arms race” between bats and moths
 
-Future work will utilize phylogenetics, morphometrics, and comparative genomics (de novo genome sequencing and transcriptomics) to investigate the evolutionary path of these traits, as well as the putative mechanisms and the genome regions that have provided for these changes.
+Future work will utilize phylogenetics, morphometrics, and comparative genomics to investigate the evolutionary path of these traits, as well as the putative mechanisms and the genome regions that have provided for these changes.
 
 </section>
 
@@ -91,17 +91,13 @@ To gain a better evolutionary understanding of the genomic and phenotypic links 
 
 ## Outreach
 
-### Extension and tribal liaison
+### STEM Extension work
 
-I have a very unique position here at UI. As an extension specialist, I have been tasked with building a STEM outreach and education program with the tribal students of Idaho, a role that no other faculty member at the university holds. In addition to educating K-12 tribal students in biology-centered STEM activities, I feel that my role at UI is to also be a tribal liaison in the college and my department, as well as recruiting and working to retain Native students (both undergraduate and graduate) and engaging and growing the Native community on campus.
+I have a very unique position here at UI. As an extension specialist, I was tasked with building a STEM outreach and education program with the tribal students of Idaho, a role that no other faculty member at the university holds. In addition to educating K-12 tribal students in biology-centered STEM activities, I feel that my role at UI is to also be a tribal liaison in the college and my department, as well as recruiting and working to retain Native students (both undergraduate and graduate) and engaging and growing the Native community on campus.
 
 The inclusion of underrepresented groups in biology is essential to enhancing scientific literacy in the United States and I am committed towards bringing Native ideas and representation across the campus, state, and nation.
 
-### Bat–moth program with Chickasaw Nation students
-
-I recently created a program involving tribal students from the Chickasaw Nation of Oklahoma to engage them into modern biological research. This program uses the exciting bat-moth evolutionary arms race to get students into nature, collect specimens, and teaches them how to participate in DNA extraction and high-throughput sequencing with an Oxford Nanopore MinION, while also learning coding. Students take the assembled sequences, identify the CO1 barcode, and use BOLD to identify the species they have collected.
-
-### Monster Lab
+### Nannoppolo' Lab (Monster Lab)
 
 My program here in Idaho, and with the San Carlos Apache in Arizona, seeks to use genetics and the powerful evolutionary story of how it has created the vast amounts of diversity we see around us, both in humans and the rest of Earth’s biodiversity. The main focus of this new program is a genetics-based STEM outreach program to teach tribal elementary, middle, and high school students about genetics. I am currently building a genetics-based STEM outreach program to teach K-12 students about DNA, the genome, and how genes work.
 
@@ -110,8 +106,8 @@ This program uses a LEGO DNA sequencer to teach kids about DNA, DNA sequencing, 
 Here in Idaho, I work with the tribes to provide opportunities for the next generation to access and develop the skills and knowledge they deem necessary for strengthening Tribal sovereignty and self-determination.
 
 <figure class="lab-video">
-  <video controls playsinline preload="metadata" width="720">
+  <video autoplay muted loop playsinline preload="metadata" width="720">
     <source src="{{ site.url }}/images/drawings.mp4" type="video/mp4">
-    Your browser can’t play this video. <a href="{{ site.url }}/images/drawings.mp4">Download it instead.</a>
   </video>
+    <figcaption>Student drawings of their nannoppolo'.</figcaption>
 </figure>
