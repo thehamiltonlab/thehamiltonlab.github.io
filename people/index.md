@@ -20,6 +20,8 @@ image:
 
 My goal as an advisor is to help students become broadly trained in arthropod systematics and phylogenetics while they develop as independent researchers by learning to identify interesting questions and the approaches necessary to address those questions. As a Native person in academia, I want to be effective in my roles – as a mentor, a researcher, as a holder of knowledge, and as an educator.
 
+This is me holding a new species of *Aphonopelma* found in Sonora, MX.
+
 Past President, Systematics, Evolution, & Biodiversity section of the Entomological Society of America ([SysEB](https://www.entsoc.org/syseb))
 
 - [Faculty profile](https://www.uidaho.edu/people/hamiltonlab)
@@ -51,7 +53,7 @@ Arnau is working on understanding the diversity and evolutionary history of the 
 
 Arnau came to us from Miguel Arnedo’s [lab](https://marnedo.net) at the Departament de Biologia Evolutiva, Ecologia i Ciències Ambientals, Fac. Biologia, Universitat de Barcelona, where he worked on mygalomorph spider research for his Masters degree.
 
-This is Arnau looking at specimens of *Hexura vandal**, a species we described in honor of the university and residents of the great state of Idaho.
+This is Arnau looking at specimens of *Hexura vandal*, the Idaho Vandal spider, a species we described in honor of the university and residents of the great state of Idaho.
 </div>
 
 ## Lab manager
