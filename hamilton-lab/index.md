@@ -21,6 +21,11 @@ The Hamilton Lab is in the [*Department of Entomology, Plant Pathology & Nematol
 
 As the Arthropod Molecular Systematics lab, our research takes a modern systematics approach to establish hypotheses about the generation and maintenance of biodiversity. By integrating large amounts of genomic, morphometric, ecological, and behavioral data, we try to explain patterns across differing landscapes and time, as well as how biotic and abiotic factors have influenced spider and moth diversification.
 
+## Home of the Idaho Vandal spider - *Hexura vandal*
+<figure class="fig-right">
+  <a href="{{ site.url }}/images/Hexura_vandal.jpg"><img src="{{ site.url }}/images/Hexura_vandal.jpg" alt="The Idaho Vandal spider"></a>
+</figure>
+
 <nav class="home-links" aria-label="Lab pages" markdown="0">
   <a href="{{ site.url }}/research/">
     <strong>Research</strong>
@@ -35,6 +40,7 @@ As the Arthropod Molecular Systematics lab, our research takes a modern systemat
     <span>Join the lab</span>
   </a>
 </nav>
+
 
 ## About the PI
 
